@@ -10,9 +10,6 @@
 
 [Ministries](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Ministries)
 
-
-
-
 ## Doctrines
 1. Assembly of God
    - Doctrines
@@ -129,6 +126,12 @@
       - Belong
       - Lead
       - Serve
+4. Radiant Life
+   - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
+      - Pentecostal
+      - Systematic
+      - Transformative
+      - Adaptable
 ## Reading_Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)
@@ -187,7 +190,6 @@
        -  Rhythm of Life by Richard Exley "24/6" by Matthew Sleeth
        -  Sacred Slow by Alicia Chole
        -  Divine Conspiracy by Dallas Willard
-
 ## Ministries
 1. Assemblies of God USA Ministries
    - Adult and Family

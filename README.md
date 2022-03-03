@@ -75,7 +75,7 @@
         - Statement on Revival
    - Recommendations
      - [CHURCH BYLAWS](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
-        - Abstinence from Alcohol
+        - 
      - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)
         - Study Leave
         - Rest and Spiritual Renewal Leave
@@ -189,7 +189,7 @@
        -  Divine Conspiracy by Dallas Willard
 
 ## Ministries
-1. Organizational Ministries
+1. Assemblies of God USA Ministries
    - Adult and Family
      - Men's Ministries
      - Women's Ministries
@@ -227,7 +227,7 @@
      - Influence Music
      - AG National Evangelists
    - Education
-     - AG Alliance for Higher Education
+     - [AG Alliance for Higher Education](http://colleges.ag.org/)
        - ASSEMBLIES OF GOD THEOLOGICAL SEMINARY
        - CARIBBEAN THEOLOGICAL COLLEGE
        - CHRIST MISSION COLLEGE

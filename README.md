@@ -77,7 +77,16 @@
         - Rest and Spiritual Renewal Leave
         - Special Project Leave
 ## Frameworks
-1. Chi Alpha
+1. AG Christian Education and Discipleship
+   - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)
+      - Bible
+      - Holy Spirit
+      - Mission
+      - Prayer
+      - Worship
+      - Service
+      - Generosity 
+2. Chi Alpha
    - [Five-Fold Approach](https://chialpha.com/about/our-story/)
       - Prayer
       - Worship
@@ -91,13 +100,19 @@
       - Excellence
       - Integrity
       - Servant-Leadership
-2. Mens Ministry
+3. Mens Ministry
    - [Four Dimensions of Biblical Manhood](https://men.ag.org/Free-Resources)
       - Vision
       - Identity
       - Relationships
       - Purpose
-3. Royal Rangers
+4. Radiant Life
+   - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
+      - Pentecostal
+      - Systematic
+      - Transformative
+      - Adaptable
+5. Royal Rangers
    - [Eight Blue Points (Royal Ranger Code)](https://royalrangers.com/about)
       - Alert
       - Clean
@@ -125,12 +140,6 @@
       - Belong
       - Lead
       - Serve
-4. Radiant Life
-   - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
-      - Pentecostal
-      - Systematic
-      - Transformative
-      - Adaptable
 ## Reading_Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)
@@ -191,21 +200,21 @@
        -  Divine Conspiracy by Dallas Willard
 ## Ministries
 1. Assemblies of God USA Ministries
-   - Adult and Family
+   - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
      - Men's Ministries
      - Women's Ministries
      - Senior Adults
      - Light For the Lost
      - Light The Way
      - Adult and Teen Challenge
-   - Youth
+   - [Youth](https://ag.org/Ministries/Youth)
      - National Youth Ministries
      - Fine Arts
      - Speed the Light
      - Teen Bible Quiz
      - AIM
      - Youth Alive
-   - Children
+   - [Children](https://ag.org/Ministries/Children)
      - Children's Ministry
      - BGMC
      - Compact Family Services Agency
@@ -227,7 +236,7 @@
      - Office of Ethnic Relations
      - Influence Music
      - AG National Evangelists
-   - Education
+   - [Education](https://ag.org/Ministries/Education)
      - [AG Alliance for Higher Education](http://colleges.ag.org/)
        - ASSEMBLIES OF GOD THEOLOGICAL SEMINARY
        - CARIBBEAN THEOLOGICAL COLLEGE
@@ -246,11 +255,15 @@
        - TRINITY BIBLE COLLEGE
        - UNIVERSITY OF VALLEY FORGE
        - VANGUARD UNIVERSITY
-     - Center for Holy Lands Studies
-   - Other Ministries
+     - [Center for Holy Lands Studies](https://thechls.org/)
+     - [Christian Schools](https://www.actsschools.org/)
+     - [Curriculum]
+     - [Sunday School](https://myhealthychurch.com/store/startcat.cfm?cat=mSUNSMALL)
+   - [Other Ministries](https://ag.org/Ministries/Other-Ministries)
      - Evangelism
      - Worship
      - Discipleship
+       - [Bible Engagement Project](https://bibleengagementproject.com/)
      - Compassion
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery

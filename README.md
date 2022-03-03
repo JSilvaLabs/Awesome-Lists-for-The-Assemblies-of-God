@@ -11,7 +11,7 @@
 [Ministries](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Ministries)
 
 ## Doctrines
-1. Assembly of God
+1. Assemblies of God
    - Doctrines
      - [Assemblies of God 16 Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths)
         - The Scriptures Inspired

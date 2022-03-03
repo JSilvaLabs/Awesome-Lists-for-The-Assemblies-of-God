@@ -252,5 +252,42 @@
      - Worship
      - Discipleship
      - Compassion
-
+   - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
+     - Abortion Recovery
+       - SAVEONE
+     - Abuse and/or Addiction Recovery
+       - ADULT & TEEN CHALLENGE
+       - BEYOND SURVIVAL MINISTRIES, INC.
+       - PROJECT IGNITE LIGHT
+       - PURE LIFE MINISTRIES
+     - Adoption/Foster Care
+       - COMPACT FAMILY SERVICES
+     - Compassion
+       - CONVOY OF HOPE: CONVOY WOMEN
+     - Counseling
+       - EMERGE MINISTRIES
+     - Domestic Violence Awareness
+       - GOD'S TRANSFORMING GRACE
+     - Human Trafficking Rescue
+       - GLOBAL CENTER FOR WOMEN AND JUSTICE
+       - FREE INTERNATIONAL
+       - PROJECT RESCUE
+       - PROTECT ME PROJECT
+     - Marriage
+       - MARRIAGE ENCOUNTER
+       - TEAMING LIFE
+     - Women Ministers
+       - NWM
+     - Rural Church Ministry
+       - RURAL COMPASSION
+     - Sexual Identity
+       - LINDASEILER.COM
+       - RESTORY MINISTRIES
+       - JOEDALLAS.COM
+     - Special Needs
+       - COMPASSIONLINK DISABILITY MINISTRY
+     - Women
+       - SAY HELLO: MINISTRY TO MUSLIM WOMEN
+       - MINISTRY TO SINGLE MOMS
+       - WIDOWS LINK
 

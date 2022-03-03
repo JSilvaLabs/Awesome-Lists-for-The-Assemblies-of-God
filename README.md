@@ -234,7 +234,7 @@
      - Royal Rangers
      - Tru Fire
      - Vida Nueva
-   - Leaders and Ministers
+   - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
      - Church Multiplication Network
      - Influence Magazine
      - Acts 2 Journey

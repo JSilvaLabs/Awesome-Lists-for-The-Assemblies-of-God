@@ -140,6 +140,13 @@
       - Belong
       - Lead
       - Serve
+   - [Seven Methods](https://royalrangers.com/about)
+      - Activities
+      - Identity
+      - Achievement
+      - Discipleship
+      - Leadership
+      - Service
 ## Reading_Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)

@@ -34,7 +34,12 @@
         - The Final Judgment
         - The New Heavens and the New Earth
    - Official Positions
-     - [Assemblies of God Position Papers](https://ag.org/Beliefs/Position-Papers)
+     - [World Assemblies of God Fellowship Theological Commission Position Papers](https://worldagfellowship.org/Fellowship/Bylaws-Membership-Position-Papers)
+        - Revised Pentecostal Theology of Compassion
+        - Essential Nature of the Church as the Missional People of God as Reflected in Pentecostal Self-Understanding
+        - Redefinition of Marriage and Human Sexuality
+        - Hyper-Grace Issue Position Paper
+     - [Assemblies of God USA Position Papers](https://ag.org/Beliefs/Position-Papers)
         - Abstinence from Alcohol
         - Apostles and Prophets
         - Assurance of Salvation
@@ -183,6 +188,68 @@
        -  Sacred Slow by Alicia Chole
        -  Divine Conspiracy by Dallas Willard
 
-
+## Ministries
+1. Organizational Ministries
+   - Adult and Family
+     - Men's Ministries
+     - Women's Ministries
+     - Senior Adults
+     - Light For the Lost
+     - Light The Way
+     - Adult and Teen Challenge
+   - Youth
+     - National Youth Ministries
+     - Fine Arts
+     - Speed the Light
+     - Teen Bible Quiz
+     - AIM
+     - Youth Alive
+   - Children
+     - Children's Ministry
+     - BGMC
+     - Compact Family Services Agency
+     - Faith Case
+     - Fire Bible Kids
+     - Girls Ministries
+     - Junior Bible Quiz
+     - Mega Sports Camp
+     - Radiant Life
+     - Royal Rangers
+     - Tru Fire
+     - Vida Nueva
+   - Leaders and Ministers
+     - Church Multiplication Network
+     - Influence Magazine
+     - Acts 2 Journey
+     - Network of Women Ministers
+     - Office of Hispanic Relations
+     - Office of Ethnic Relations
+     - Influence Music
+     - AG National Evangelists
+   - Education
+     - AG Alliance for Higher Education
+       - ASSEMBLIES OF GOD THEOLOGICAL SEMINARY
+       - CARIBBEAN THEOLOGICAL COLLEGE
+       - CHRIST MISSION COLLEGE
+       - EVANGEL UNIVERSITY
+       - GLOBAL UNIVERSITY
+       - KOREAN ASSEMBLIES OF GOD THEOLOGICAL SCHOOL OF NEW YORK
+       - LABI COLLEGE
+       - LUMBEE RIVER CHRISTIAN COLLEGE
+       - NORTH CENTRAL UNIVERSITY
+       - NORTHPOINT BIBLE COLLEGE
+       - NORTHWEST UNIVERSITY
+       - SOUTHEASTERN UNIVERSITY
+       - SOUTHWESTERN ASSEMBLIES OF GOD UNIV. (AMERICAN INDIAN COLLEGE)
+       - SOUTHWESTERN ASSEMBLIES OF GOD UNIVERSITY
+       - TRINITY BIBLE COLLEGE
+       - UNIVERSITY OF VALLEY FORGE
+       - VANGUARD UNIVERSITY
+     - Center for Holy Lands Studies
+   - Other Ministries
+     - Evangelism
+     - Worship
+     - Discipleship
+     - Compassion
 
 

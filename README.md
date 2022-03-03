@@ -71,7 +71,7 @@
         - Statement on George Floyd, Racism, and Racial Reconciliation
         - Statement on Revival
    - Recommendations
-     - [CHURCH BYLAWS](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
+     - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
      - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)
         - Study Leave
         - Rest and Spiritual Renewal Leave

@@ -46,6 +46,7 @@
         - Church Mission and Peacemaking
         - Divine Healing
         - Divorce and Remarriage
+        - Domestic Violence
         - Eternal Punishment
         - Homosexuality, Marriage, and Sexual Identity
         - Inspiration, Inerrancy, and Authority of Scripture

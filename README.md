@@ -197,7 +197,15 @@
         - Dress for Success - by John T Molloy
         - Top to Toe - by Tony Glenville
         - Good Girls don't have to Dress Bad - by Shari Braendel (Option for female RR leaders)
-2. North Texas District
+2. Chi Alpha College Ministry
+   - [Good Reads](https://chialpha.com/resources/#category=good-reads)
+     - Real Devotion: Discovering the Whys Behind the Whats of the Gospel
+     - 40 Days of Decrease
+     - Ready, Set, Rest
+     - The Historical Validity of the Resurrection of Jesus Christ from the Dead
+     - The Inside-Out Kingdom
+     - 25 Essential Christian Books 
+4. North Texas District
    - Recommended Reading List
      - [Better Marriage 365](https://northtexas.ag/better-marriage-365/)
        -  [Never Settle For Good Enough by Kendall and Starla Bridges](https://www.bettermarriage365.com/new-book-and-workbook)
@@ -287,7 +295,7 @@
    - [Intercultural Ministries](https://intercultural.ag.org/)
    - Specialized
    - [Youth Alive](https://youth.ag.org/YouthAlive)
-3. Recommended Ministires
+3. Recommended Ministries
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery
        - SAVEONE

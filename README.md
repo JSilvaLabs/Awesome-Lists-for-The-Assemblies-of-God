@@ -72,7 +72,8 @@
         - Statement on George Floyd, Racism, and Racial Reconciliation
         - Statement on Revival
 - Constitution and Bylaws
-    - [Assemblies of God Constitution and Bylaws] (https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
+    - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
+
 - Recommendations
      - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
      - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)

@@ -277,6 +277,15 @@
      - Discipleship
        - [Bible Engagement Project](https://bibleengagementproject.com/)
      - Compassion
+2. US Missions
+   - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+   - [chaplaincy Ministries](https://chaplaincy.ag.org/)
+   - [Chi Alpha College Ministry](https://chialpha.com/)
+   - [Church Mobilization](https://churchmobilization.ag.org/)
+   - [Intercultural Ministries](https://intercultural.ag.org/)
+   - Specialized
+   - [Youth Alive]([https://youth.ag.org/](https://youth.ag.org/YouthAlive))
+3. Recommended Ministires
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery
        - SAVEONE

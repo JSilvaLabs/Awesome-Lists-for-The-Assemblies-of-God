@@ -204,7 +204,32 @@
      - Ready, Set, Rest
      - The Historical Validity of the Resurrection of Jesus Christ from the Dead
      - The Inside-Out Kingdom
-     - 25 Essential Christian Books 
+     - 25 Essential Christian Books
+       - Pursuit of God - AW Tozer
+       - Knowledge of the Holy - AW Tozer
+       - Christ of the Indian Road - E Stanley Jones
+       - Christ and Human Suffering - E Stanley Jones
+       - Unshakable Kingdom - E Stanley Jones
+       - Practice of the Presence of God - Brother Lawrence
+       - Humility - Andrew Murray
+       - The Greatest Thing in the World - Henry Drummond
+       - The God They Never Knew - George Otis Jr.
+       - Mere Christianity - CS Lewis
+       - The Weight of Glory - CS Lewis
+       - Screwtape Letters - CS Lewis
+       - True Spirituality - Francis Schaeffer
+       - The Normal Christian Life - Watchman Nee
+       - The Cross and the Switchblade - David Wilkerson
+       - Bruchko - Bruce Olson
+       - Peace Child - Don Richardson
+       - Through the Gates of Splendor - Elizabeth Elliot
+       - Counterfeit Gods - Timothy Keller
+       - Reason for God - Timothy Keller
+       - What’s So Amazing About Grace - Philip Yancey
+       - Surprised by Hope - NT Wright
+       - The Live Dead Journal - Live Dead Team
+       - Radical - David Platt
+       - Discovering the Character of God - George MacDonald    
 4. North Texas District
    - Recommended Reading List
      - [Better Marriage 365](https://northtexas.ag/better-marriage-365/)

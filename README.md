@@ -298,40 +298,40 @@
 3. Recommended Ministries
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery
-       - SAVEONE
+       - [SAVEONE](https://www.saveone.org/)
      - Abuse and/or Addiction Recovery
-       - Adult & Teen Challenge
-       - Beyond Survival Ministries, Inc.
-       - Project Ignite Light
-       - Pure Life Ministries
+       - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+       - [Beyond Survival Ministries, Inc.](https://www.beyondsurvivalministries.org/)
+       - [Project Ignite Light](https://ignitelight.org/)
+       - [Pure Life Ministries](https://www.purelifeministries.org/)
      - Adoption/Foster Care
-       - Compact Family Services
+       - [Compact Family Services](https://compact.family/)
      - Compassion
-       - Convoy of Hope: Convoy Women
+       - [Convoy of Hope: Convoy Women](https://convoyofhope.org/convoy-women/)
      - Counseling
-       - Emerge Ministries
+       - [Emerge Ministries](https://www.emerge.org/)
      - Domestic Violence Awareness
-       - God's Transforming Grace
+       - [God's Transforming Grace](https://godstransforminggrace.com/)
      - Human Trafficking Rescue
-       - Global Center for Women and Justice
-       - Free International
-       - Project Rescue
-       - Protect Me Project
+       - [Global Center for Women and Justice](https://www.gcwj.org/)
+       - [Free International](https://www.freeinternational.org/)
+       - [Project Rescue](https://www.projectrescue.com/)
+       - [Protect Me Project](https://www.protectmeproject.org/)
      - Marriage
-       - Marriage Encounter
-       - Teaming Life
+       - [Marriage Encounter](https://agme.org/)
+       - [Teaming Life](http://teaminglife.com/)
      - Women Ministers
-       - NWM
+       - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
      - Rural Church Ministry
-       - Rural Compassion
+       - [Rural Compassion](https://www.ruralcompassion.org/)
      - Sexual Identity
-       - LindaSeiler.com
-       - Restory Ministries
-       - JoeDallas.com
+       - [Linda Seiler](LindaSeiler.com)
+       - [Restory Ministries](https://restoryministries.org/)
+       - [Joe Dallas](JoeDallas.com)
      - Special Needs
-       - CompassionLink Disability Ministry
+       - [CompassionLink Disability Ministry](https://www.compassionlink.org/)
      - Women
        - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
-       - Ministry to Single Moms
-       - Widows Link
+       - [Ministry to Single Moms](http://www.loisbreit.com/)
+       - [Widows Link](https://widowslink.org/)
 

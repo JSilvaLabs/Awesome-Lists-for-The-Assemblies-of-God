@@ -300,38 +300,38 @@
      - Abortion Recovery
        - SAVEONE
      - Abuse and/or Addiction Recovery
-       - ADULT & TEEN CHALLENGE
-       - BEYOND SURVIVAL MINISTRIES, INC.
-       - PROJECT IGNITE LIGHT
-       - PURE LIFE MINISTRIES
+       - Adult & Teen Challenge
+       - Beyond Survival Ministries, Inc.
+       - Project Ignite Light
+       - Pure Life Ministries
      - Adoption/Foster Care
-       - COMPACT FAMILY SERVICES
+       - Compact Family Services
      - Compassion
-       - CONVOY OF HOPE: CONVOY WOMEN
+       - Convoy of Hope: Convoy Women
      - Counseling
-       - EMERGE MINISTRIES
+       - Emerge Ministries
      - Domestic Violence Awareness
-       - GOD'S TRANSFORMING GRACE
+       - God's Transforming Grace
      - Human Trafficking Rescue
-       - GLOBAL CENTER FOR WOMEN AND JUSTICE
-       - FREE INTERNATIONAL
-       - PROJECT RESCUE
-       - PROTECT ME PROJECT
+       - Global Center for Women and Justice
+       - Free International
+       - Project Rescue
+       - Protect Me Project
      - Marriage
-       - MARRIAGE ENCOUNTER
-       - TEAMING LIFE
+       - Marriage Encounter
+       - Teaming Life
      - Women Ministers
        - NWM
      - Rural Church Ministry
-       - RURAL COMPASSION
+       - Rural Compassion
      - Sexual Identity
-       - LINDASEILER.COM
-       - RESTORY MINISTRIES
-       - JOEDALLAS.COM
+       - LindaSeiler.com
+       - Restory Ministries
+       - JoeDallas.com
      - Special Needs
-       - COMPASSIONLINK DISABILITY MINISTRY
+       - CompassionLink Disability Ministry
      - Women
-       - SAY HELLO: MINISTRY TO MUSLIM WOMEN
-       - MINISTRY TO SINGLE MOMS
-       - WIDOWS LINK
+       - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
+       - Ministry to Single Moms
+       - Widows Link
 

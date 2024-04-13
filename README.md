@@ -349,7 +349,7 @@
      - Rural Church Ministry
        - [Rural Compassion](https://www.ruralcompassion.org/)
      - Sexual Identity
-       - [Linda Seiler](LindaSeiler.com)
+       - [Linda Seiler](https://LindaSeiler.com)
        - [Restory Ministries](https://restoryministries.org/)
        - [Joe Dallas](JoeDallas.com)
      - Special Needs

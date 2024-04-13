@@ -73,16 +73,15 @@
         - Statement on Revival
    - Constitution and Bylaws
      - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
-
-## Recommendations
-1. National Level
-   - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
-   - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
-2. District Level
-   - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)
-     - Study Leave
-     - Rest and Spiritual Renewal Leave
-     - Special Project Leave
+   - Recommendations
+     - National Level
+       - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
+       - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
+     - District Level
+       - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)
+       - Study Leave
+       - Rest and Spiritual Renewal Leave
+       - Special Project Leave
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)

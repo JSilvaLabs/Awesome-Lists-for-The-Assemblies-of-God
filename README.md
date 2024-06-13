@@ -284,7 +284,7 @@
      - AG National Evangelists
    - [Education](https://ag.org/Ministries/Education)
      - [AG Alliance for Higher Education](http://colleges.ag.org/)
-       - ASSEMBLIES OF GOD THEOLOGICAL SEMINARY
+       - Assemblies of God Theological Seminary
        - CARIBBEAN THEOLOGICAL COLLEGE
        - CHRIST MISSION COLLEGE
        - EVANGEL UNIVERSITY

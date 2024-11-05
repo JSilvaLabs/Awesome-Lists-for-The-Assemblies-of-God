@@ -78,7 +78,7 @@
        - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
        - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
      - District Level
-       - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/resources-page#SabbaticalandSabbath)
+       - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/sabbath---sabbatical)
        - Study Leave
        - Rest and Spiritual Renewal Leave
        - Special Project Leave
@@ -404,15 +404,18 @@
 4. North Texas District
    - Recommended Reading List
      - [Better Marriage 365](https://northtexas.ag/better-marriage-365/)
-       -  [Never Settle For Good Enough by Kendall and Starla Bridges](https://www.bettermarriage365.com/new-book-and-workbook)
+       -  [Never Settle For Good Enough by Kendall and Starla Bridges](https://www.amazon.com/dp/0692754377)
      - [Sabbatical & Sabbath](https://northtexas.ag/sabbatical-sabbath/)
        -  Clergy Renewal by Richard Bullock and Richard Brusehoff
        -  Ordering your private World by Gordon MacDonald
        -  Running on Empty by Wayne Cordero
        -  Refresh, Renew, Revive by HB London, jr.
-       -  The Rest of God by Mark Buchanan (restoring your soul by restoring SABBATH).
-       -  DNA of Relationships by Gary Smalley
-       -  Inside Out by Larry Crabb “Love Revealed" by Kerry Clarensau
-       -  Rhythm of Life by Richard Exley "24/6" by Matthew Sleeth
-       -  Sacred Slow by Alicia Chole
-       -  Divine Conspiracy by Dallas Willard
+       -  The Rest of God by Mark Buchanan
+       -  The DNA of Relationships by Gary Smalley
+       -  Inside Out by Larry Crabb
+       - Old list included the following:
+          -  “Love Revealed" by Kerry Clarensau
+          -  Rhythm of Life by Richard Exley
+          -  "24/6" by Matthew Sleeth
+          -  Sacred Slow by Alicia Chole
+          -  Divine Conspiracy by Dallas Willard

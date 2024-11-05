@@ -226,7 +226,6 @@
 10. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
 11. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
 12. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
-
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
 2. [AG Kidmin](https://www.instagram.com/agkidmin/)
@@ -237,12 +236,10 @@
 7. [Speed The Light]((https://www.instagram.com/agspeedthelight/))
 8. [Convoy of Hope](https://www.instagram.com/convoyofhope/)
 9. [Teen Challenge USA](https://www.instagram.com/teenchallengeusa/)
-
    - Districts
       - [North Texas District](https://www.instagram.com/northtexas_ag/)
       - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
    - Churches
-      - 
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
 

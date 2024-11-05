@@ -78,7 +78,7 @@
        - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
        - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
      - District Level
-       - [Sabbatical Policy (North Texas District)](https://northtexas.ag/sabbatical-sabbath/)
+       - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/resources-page#SabbaticalandSabbath)
        - Study Leave
        - Rest and Spiritual Renewal Leave
        - Special Project Leave

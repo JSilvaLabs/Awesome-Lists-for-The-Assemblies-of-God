@@ -167,6 +167,8 @@
    - Specialized
    - [Youth Alive](https://youth.ag.org/YouthAlive)
 3. Recommended Ministries
+   - Ministries for Ministers
+     - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery
        - [SAVEONE](https://www.saveone.org/)
@@ -205,7 +207,7 @@
        - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
-   - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
+
 
 ## Frameworks
 1. AG Christian Education and Discipleship

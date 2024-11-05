@@ -214,9 +214,35 @@
 4. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
 5. [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 ## YouTube Channels
-1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
-2. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
-3. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+1. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
+2. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
+3. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
+4. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+5. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
+7. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
+8. [AG Kidmin](https://www.youtube.com/@AGKidmin)
+9. [AG Youth](https://www.youtube.com/@AGYouth)
+10. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
+11. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
+12. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+
+## Instagram
+1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
+2. [AG Kidmin](https://www.instagram.com/agkidmin/)
+3. [Called AG](https://www.instagram.com/called.ag/)
+4. [Bible Engagement Project](https://www.instagram.com/bibleengagementproject/)
+5. [Church Multiplication Network](https://www.instagram.com/cmnetwork/)
+6. [AG BGMC](https://www.instagram.com/agbgmc/)
+7. [Speed The Light]((https://www.instagram.com/agspeedthelight/))
+8. [Convoy of Hope](https://www.instagram.com/convoyofhope/)
+9. [Teen Challenge USA](https://www.instagram.com/teenchallengeusa/)
+
+   - Districts
+      - [North Texas District](https://www.instagram.com/northtexas_ag/)
+      - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
+   - Churches
+      - 
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
 

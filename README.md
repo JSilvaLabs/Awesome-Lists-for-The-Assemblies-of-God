@@ -208,7 +208,14 @@
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
 ## Podcasts
-1. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
+2. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+3. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
+4. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
+5. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
+## YouTube Channels
+6. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+7. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)

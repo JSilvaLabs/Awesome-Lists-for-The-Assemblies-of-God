@@ -208,11 +208,11 @@
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
 ## Podcasts
-1. 
-2. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
-3. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
-4. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
-5. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
+1. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+2. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
+3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
+4. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
+5. [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 ## YouTube Channels
 1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
 2. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)

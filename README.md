@@ -153,6 +153,17 @@
       - Discipleship
       - Leadership
       - Service
+6. [National Women Network (NWN)](https://www.womenministers.ag.org/about-nwm)
+   - Four Pillars
+      - Foster Community
+      - Enhance Theological Awareness
+      - Leadership Development
+      - Normalize Women and Men Working in Ministry Together   
+   - Values
+      - Honor
+      - Authenticity
+      - Forgiveness
+      - Hope
 ## Reading_Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)

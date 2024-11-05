@@ -419,3 +419,16 @@
           -  "24/6" by Matthew Sleeth
           -  Sacred Slow by Alicia Chole
           -  Divine Conspiracy by Dallas Willard
+     - [Sabbatical Handbook by the Ohio Minstry Network 2011](https://irp.cdn-website.com/6c57dff6/files/uploaded/Sabbatical-Handbook-Ohio.pdf)
+       -  The DNA of Relationships by Gary Smalley
+       -  One Size Doesn't Fit All by Gary L McIntosh
+       -  Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives by Wayne Muller
+       -  Deepening Your Ministry Through Prayer and Personal Growth by Eugene Peterson
+       -  Clergy Renewal: The Alban Guide to Sabbatical Planning by A. Richard Bullock and Richard J. Brueshehoff
+       -  Invitation to Solitude and Silence by Ruth Haley Barton
+       -  The Rest of God by Mark Buchanan
+       -  Daily Life in the Time of Jesus by Henri Daniel-Rops
+       -  Inside Out by Larry Crabb
+       -  Courageous Leadership by Bill Hybels
+       -  Traveling Light by Max Lucado
+       -  Choosing to Cheat by Andy Stanley

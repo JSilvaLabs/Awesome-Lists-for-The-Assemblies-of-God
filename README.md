@@ -280,7 +280,7 @@
       - Discipleship
       - Leadership
       - Service
-6. [National Women Network (NWN)](https://www.womenministers.ag.org/about-nwm)
+6. [Network of Women Ministers (NWMM)](https://www.womenministers.ag.org/about-nwm)
    - Four Pillars
       - Foster Community
       - Enhance Theological Awareness

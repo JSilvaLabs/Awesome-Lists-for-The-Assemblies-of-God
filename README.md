@@ -87,6 +87,126 @@
       - Pentecostal and Charismatic Churches of North America (PCCNA)
       - Pentecostal World Fellowship (PWF)
       - World Assemblies of God Fellowship (WAGF)
+## Ministries
+1. Assemblies of God USA Ministries
+   - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
+     - Men's Ministries
+     - Women's Ministries
+     - Senior Adults
+     - Light For the Lost
+     - Light The Way
+     - Adult and Teen Challenge
+   - [Youth](https://ag.org/Ministries/Youth)
+     - National Youth Ministries
+     - Fine Arts
+     - Speed the Light
+     - Teen Bible Quiz
+     - AIM
+     - Youth Alive
+   - [Children](https://ag.org/Ministries/Children)
+     - Children's Ministry
+     - BGMC
+     - Compact Family Services Agency
+     - Faith Case
+     - Fire Bible Kids
+     - Girls Ministries
+     - Junior Bible Quiz
+     - Mega Sports Camp
+     - Radiant Life
+     - Royal Rangers
+     - Tru Fire
+     - Vida Nueva
+   - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
+     - Church Multiplication Network
+     - Influence Magazine
+     - Center for Holy Lands Studies
+     - Acts 2 Journey
+     - Network of Women Ministers
+     - Office of Hispanic Relations
+     - Office of Ethnic Relations
+     - AG Higher Education
+     - AG Coaching
+     - Influence Music
+     - AG National Evangelists
+     - Legacy Transition Group
+   - [Education](https://ag.org/Ministries/Education)
+     - [AG Alliance for Higher Education](http://colleges.ag.org/)
+       - Assemblies of God Theological Seminary
+       - CARIBBEAN THEOLOGICAL COLLEGE
+       - CHRIST MISSION COLLEGE
+       - EVANGEL UNIVERSITY
+       - GLOBAL UNIVERSITY
+       - KOREAN ASSEMBLIES OF GOD THEOLOGICAL SCHOOL OF NEW YORK
+       - LABI COLLEGE
+       - LUMBEE RIVER CHRISTIAN COLLEGE
+       - NORTH CENTRAL UNIVERSITY
+       - NORTHPOINT BIBLE COLLEGE
+       - NORTHWEST UNIVERSITY
+       - SOUTHEASTERN UNIVERSITY
+       - SOUTHWESTERN ASSEMBLIES OF GOD UNIV. (AMERICAN INDIAN COLLEGE)
+       - SOUTHWESTERN ASSEMBLIES OF GOD UNIVERSITY
+       - TRINITY BIBLE COLLEGE
+       - UNIVERSITY OF VALLEY FORGE
+       - VANGUARD UNIVERSITY
+     - [Center for Holy Lands Studies](https://thechls.org/)
+     - [Christian Schools](https://www.actsschools.org/)
+     - [Curriculum]
+     - [Sunday School](https://myhealthychurch.com/store/startcat.cfm?cat=mSUNSMALL)
+   - [Other Ministries](https://ag.org/Ministries/Other-Ministries)
+     - Evangelism
+     - Worship
+     - Discipleship
+       - [Bible Engagement Project](https://bibleengagementproject.com/)
+     - Compassion
+2. US Missions
+   - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+   - [Chaplaincy Ministries](https://chaplaincy.ag.org/)
+   - [Chi Alpha College Ministry](https://chialpha.com/)
+   - [Church Mobilization](https://churchmobilization.ag.org/)
+   - [Intercultural Ministries](https://intercultural.ag.org/)
+   - Specialized
+   - [Youth Alive](https://youth.ag.org/YouthAlive)
+3. Recommended Ministries
+   - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
+     - Abortion Recovery
+       - [SAVEONE](https://www.saveone.org/)
+     - Abuse and/or Addiction Recovery
+       - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+       - [Beyond Survival Ministries, Inc.](https://www.beyondsurvivalministries.org/)
+       - [Project Ignite Light](https://ignitelight.org/)
+       - [Pure Life Ministries](https://www.purelifeministries.org/)
+     - Adoption/Foster Care
+       - [Compact Family Services](https://compact.family/)
+     - Compassion
+       - [Convoy of Hope: Convoy Women](https://convoyofhope.org/convoy-women/)
+     - Counseling
+       - [Emerge Ministries](https://www.emerge.org/)
+     - Domestic Violence Awareness
+       - [God's Transforming Grace](https://godstransforminggrace.com/)
+     - Human Trafficking Rescue
+       - [Global Center for Women and Justice](https://www.gcwj.org/)
+       - [Free International](https://www.freeinternational.org/)
+       - [Project Rescue](https://www.projectrescue.com/)
+       - [Protect Me Project](https://www.protectmeproject.org/)
+     - Marriage
+       - [Marriage Encounter](https://agme.org/)
+       - [Teaming Life](http://teaminglife.com/)
+     - Women Ministers
+       - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
+     - Rural Church Ministry
+       - [Rural Compassion](https://www.ruralcompassion.org/)
+     - Sexual Identity
+       - [Linda Seiler](https://LindaSeiler.com)
+       - [Restory Ministries](https://restoryministries.org/)
+       - [Joe Dallas](JoeDallas.com)
+     - Special Needs
+       - [CompassionLink Disability Ministry](https://www.compassionlink.org/)
+     - Women
+       - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
+       - [Ministry to Single Moms](http://www.loisbreit.com/)
+       - [Widows Link](https://widowslink.org/)
+   - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
+
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)
@@ -260,123 +380,3 @@
        -  Rhythm of Life by Richard Exley "24/6" by Matthew Sleeth
        -  Sacred Slow by Alicia Chole
        -  Divine Conspiracy by Dallas Willard
-## Ministries
-1. Assemblies of God USA Ministries
-   - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
-     - Men's Ministries
-     - Women's Ministries
-     - Senior Adults
-     - Light For the Lost
-     - Light The Way
-     - Adult and Teen Challenge
-   - [Youth](https://ag.org/Ministries/Youth)
-     - National Youth Ministries
-     - Fine Arts
-     - Speed the Light
-     - Teen Bible Quiz
-     - AIM
-     - Youth Alive
-   - [Children](https://ag.org/Ministries/Children)
-     - Children's Ministry
-     - BGMC
-     - Compact Family Services Agency
-     - Faith Case
-     - Fire Bible Kids
-     - Girls Ministries
-     - Junior Bible Quiz
-     - Mega Sports Camp
-     - Radiant Life
-     - Royal Rangers
-     - Tru Fire
-     - Vida Nueva
-   - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
-     - Church Multiplication Network
-     - Influence Magazine
-     - Center for Holy Lands Studies
-     - Acts 2 Journey
-     - Network of Women Ministers
-     - Office of Hispanic Relations
-     - Office of Ethnic Relations
-     - AG Higher Education
-     - AG Coaching
-     - Influence Music
-     - AG National Evangelists
-     - Legacy Transition Group
-   - [Education](https://ag.org/Ministries/Education)
-     - [AG Alliance for Higher Education](http://colleges.ag.org/)
-       - Assemblies of God Theological Seminary
-       - CARIBBEAN THEOLOGICAL COLLEGE
-       - CHRIST MISSION COLLEGE
-       - EVANGEL UNIVERSITY
-       - GLOBAL UNIVERSITY
-       - KOREAN ASSEMBLIES OF GOD THEOLOGICAL SCHOOL OF NEW YORK
-       - LABI COLLEGE
-       - LUMBEE RIVER CHRISTIAN COLLEGE
-       - NORTH CENTRAL UNIVERSITY
-       - NORTHPOINT BIBLE COLLEGE
-       - NORTHWEST UNIVERSITY
-       - SOUTHEASTERN UNIVERSITY
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIV. (AMERICAN INDIAN COLLEGE)
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIVERSITY
-       - TRINITY BIBLE COLLEGE
-       - UNIVERSITY OF VALLEY FORGE
-       - VANGUARD UNIVERSITY
-     - [Center for Holy Lands Studies](https://thechls.org/)
-     - [Christian Schools](https://www.actsschools.org/)
-     - [Curriculum]
-     - [Sunday School](https://myhealthychurch.com/store/startcat.cfm?cat=mSUNSMALL)
-   - [Other Ministries](https://ag.org/Ministries/Other-Ministries)
-     - Evangelism
-     - Worship
-     - Discipleship
-       - [Bible Engagement Project](https://bibleengagementproject.com/)
-     - Compassion
-2. US Missions
-   - [Adult & Teen Challenge](https://teenchallengeusa.org/)
-   - [Chaplaincy Ministries](https://chaplaincy.ag.org/)
-   - [Chi Alpha College Ministry](https://chialpha.com/)
-   - [Church Mobilization](https://churchmobilization.ag.org/)
-   - [Intercultural Ministries](https://intercultural.ag.org/)
-   - Specialized
-   - [Youth Alive](https://youth.ag.org/YouthAlive)
-3. Recommended Ministries
-   - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
-     - Abortion Recovery
-       - [SAVEONE](https://www.saveone.org/)
-     - Abuse and/or Addiction Recovery
-       - [Adult & Teen Challenge](https://teenchallengeusa.org/)
-       - [Beyond Survival Ministries, Inc.](https://www.beyondsurvivalministries.org/)
-       - [Project Ignite Light](https://ignitelight.org/)
-       - [Pure Life Ministries](https://www.purelifeministries.org/)
-     - Adoption/Foster Care
-       - [Compact Family Services](https://compact.family/)
-     - Compassion
-       - [Convoy of Hope: Convoy Women](https://convoyofhope.org/convoy-women/)
-     - Counseling
-       - [Emerge Ministries](https://www.emerge.org/)
-     - Domestic Violence Awareness
-       - [God's Transforming Grace](https://godstransforminggrace.com/)
-     - Human Trafficking Rescue
-       - [Global Center for Women and Justice](https://www.gcwj.org/)
-       - [Free International](https://www.freeinternational.org/)
-       - [Project Rescue](https://www.projectrescue.com/)
-       - [Protect Me Project](https://www.protectmeproject.org/)
-     - Marriage
-       - [Marriage Encounter](https://agme.org/)
-       - [Teaming Life](http://teaminglife.com/)
-     - Women Ministers
-       - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
-     - Rural Church Ministry
-       - [Rural Compassion](https://www.ruralcompassion.org/)
-     - Sexual Identity
-       - [Linda Seiler](https://LindaSeiler.com)
-       - [Restory Ministries](https://restoryministries.org/)
-       - [Joe Dallas](JoeDallas.com)
-     - Special Needs
-       - [CompassionLink Disability Ministry](https://www.compassionlink.org/)
-     - Women
-       - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
-       - [Ministry to Single Moms](http://www.loisbreit.com/)
-       - [Widows Link](https://widowslink.org/)
-   - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
-

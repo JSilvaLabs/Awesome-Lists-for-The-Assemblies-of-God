@@ -82,6 +82,11 @@
        - Study Leave
        - Rest and Spiritual Renewal Leave
        - Special Project Leave
+   - [Affiliations](https://ag.org/About/About-the-AG/Affiliations)
+      - National Association of Evangelicals (NAE)
+      - Pentecostal and Charismatic Churches of North America (PCCNA)
+      - Pentecostal World Fellowship (PWF)
+      - World Assemblies of God Fellowship (WAGF)
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)

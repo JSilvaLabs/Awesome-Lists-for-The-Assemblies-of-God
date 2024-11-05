@@ -276,12 +276,16 @@
    - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
      - Church Multiplication Network
      - Influence Magazine
+     - Center for Holy Lands Studies
      - Acts 2 Journey
      - Network of Women Ministers
      - Office of Hispanic Relations
      - Office of Ethnic Relations
+     - AG Higher Education
+     - AG Coaching
      - Influence Music
      - AG National Evangelists
+     - Legacy Transition Group
    - [Education](https://ag.org/Ministries/Education)
      - [AG Alliance for Higher Education](http://colleges.ag.org/)
        - Assemblies of God Theological Seminary
@@ -358,4 +362,5 @@
        - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
+   - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
 

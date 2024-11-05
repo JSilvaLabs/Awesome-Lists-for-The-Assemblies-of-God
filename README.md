@@ -207,8 +207,8 @@
        - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
-
-
+## Podcasts
+1. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)

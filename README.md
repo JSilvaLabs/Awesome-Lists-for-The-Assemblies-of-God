@@ -233,7 +233,7 @@
 4. [Bible Engagement Project](https://www.instagram.com/bibleengagementproject/)
 5. [Church Multiplication Network](https://www.instagram.com/cmnetwork/)
 6. [AG BGMC](https://www.instagram.com/agbgmc/)
-7. [Speed The Light]((https://www.instagram.com/agspeedthelight/))
+7. [Speed The Light](https://www.instagram.com/agspeedthelight/)
 8. [Convoy of Hope](https://www.instagram.com/convoyofhope/)
 9. [Teen Challenge USA](https://www.instagram.com/teenchallengeusa/)
    - Districts

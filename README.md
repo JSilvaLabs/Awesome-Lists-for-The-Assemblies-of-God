@@ -242,89 +242,6 @@
    - Churches
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
-
-## Frameworks
-1. AG Christian Education and Discipleship
-   - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)
-      - Bible
-      - Holy Spirit
-      - Mission
-      - Prayer
-      - Worship
-      - Service
-      - Generosity 
-2. Chi Alpha
-   - [Five-Fold Approach](https://chialpha.com/about/our-story/)
-      - Prayer
-      - Worship
-      - Fellowship
-      - Discipleship
-      - Mission
-   - [Core Values](https://chialpha.com/about/our-story/)
-      - Community
-      - Creativity
-      - Diversity
-      - Excellence
-      - Integrity
-      - Servant-Leadership
-3. Mens Ministry
-   - [Four Dimensions of Biblical Manhood](https://men.ag.org/Free-Resources)
-      - Vision
-      - Identity
-      - Relationships
-      - Purpose
-4. Radiant Life
-   - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
-      - Pentecostal
-      - Systematic
-      - Transformative
-      - Adaptable
-5. Royal Rangers
-   - [Eight Blue Points (Royal Ranger Code)](https://royalrangers.com/about)
-      - Alert
-      - Clean
-      - Honest
-      - Courageous
-      - Loyal
-      - Courteous
-      - Obedient
-      - Spiritual 
-   - [Four Gold Points (adolescent developement domains)](https://royalrangers.com/about)
-      - Mentally
-      - Physically
-      - Spiritually
-      - Socially
-   - [Four Red Points (Core Beliefs)](https://royalrangers.com/about)
-      - Salvation
-      - Baptism in the Holy Spirit
-      - Divine Healing
-      - Second Comming of Christ
-   - [Seven Expereiences](https://royalrangers.com/leaders)
-      - Connect
-      - Do
-      - Grow
-      - Learn
-      - Belong
-      - Lead
-      - Serve
-   - [Seven Methods](https://royalrangers.com/about)
-      - Activities
-      - Identity
-      - Achievement
-      - Discipleship
-      - Leadership
-      - Service
-6. [Network of Women Ministers (NWM)](https://www.womenministers.ag.org/about-nwm)
-   - Four Pillars
-      - Foster Community
-      - Enhance Theological Awareness
-      - Leadership Development
-      - Normalize Women and Men Working in Ministry Together   
-   - Values
-      - Honor
-      - Authenticity
-      - Forgiveness
-      - Hope
 ## Reading_Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)
@@ -434,3 +351,85 @@
        -  Courageous Leadership by Bill Hybels
        -  Traveling Light by Max Lucado
        -  Choosing to Cheat by Andy Stanley
+## Frameworks
+1. AG Christian Education and Discipleship
+   - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)
+      - Bible
+      - Holy Spirit
+      - Mission
+      - Prayer
+      - Worship
+      - Service
+      - Generosity 
+2. Chi Alpha
+   - [Five-Fold Approach](https://chialpha.com/about/our-story/)
+      - Prayer
+      - Worship
+      - Fellowship
+      - Discipleship
+      - Mission
+   - [Core Values](https://chialpha.com/about/our-story/)
+      - Community
+      - Creativity
+      - Diversity
+      - Excellence
+      - Integrity
+      - Servant-Leadership
+3. Mens Ministry
+   - [Four Dimensions of Biblical Manhood](https://men.ag.org/Free-Resources)
+      - Vision
+      - Identity
+      - Relationships
+      - Purpose
+4. Radiant Life
+   - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
+      - Pentecostal
+      - Systematic
+      - Transformative
+      - Adaptable
+5. Royal Rangers
+   - [Eight Blue Points (Royal Ranger Code)](https://royalrangers.com/about)
+      - Alert
+      - Clean
+      - Honest
+      - Courageous
+      - Loyal
+      - Courteous
+      - Obedient
+      - Spiritual 
+   - [Four Gold Points (adolescent developement domains)](https://royalrangers.com/about)
+      - Mentally
+      - Physically
+      - Spiritually
+      - Socially
+   - [Four Red Points (Core Beliefs)](https://royalrangers.com/about)
+      - Salvation
+      - Baptism in the Holy Spirit
+      - Divine Healing
+      - Second Comming of Christ
+   - [Seven Expereiences](https://royalrangers.com/leaders)
+      - Connect
+      - Do
+      - Grow
+      - Learn
+      - Belong
+      - Lead
+      - Serve
+   - [Seven Methods](https://royalrangers.com/about)
+      - Activities
+      - Identity
+      - Achievement
+      - Discipleship
+      - Leadership
+      - Service
+6. [Network of Women Ministers (NWM)](https://www.womenministers.ag.org/about-nwm)
+   - Four Pillars
+      - Foster Community
+      - Enhance Theological Awareness
+      - Leadership Development
+      - Normalize Women and Men Working in Ministry Together   
+   - Values
+      - Honor
+      - Authenticity
+      - Forgiveness
+      - Hope

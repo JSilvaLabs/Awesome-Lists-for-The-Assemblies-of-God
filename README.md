@@ -4,11 +4,19 @@
 ## Content
 [Doctrines](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Doctrines)
 
-[Frameworks](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Frameworks)
+[Ministries](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Ministries)
+
+[Podcasts](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Podcasts)
+
+[YouTube Channels](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#YouTube_Channels)
+
+[Instagram](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Instagram)
+
+[Blogs](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Blogs)
 
 [Reading Lists](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Reading_Lists)
 
-[Ministries](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Ministries)
+[Frameworks](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Frameworks)
 
 ## Doctrines
 1. Assemblies of God

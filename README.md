@@ -2,12 +2,19 @@
 
 ## Content
 [Doctrines](#doctrines)
+
 [Ministries](#ministries)
+
 [Podcasts](#podcasts)
+
 [YouTube Channels](#youtube-channels)
+
 [Instagram](#instagram)
+
 [Blogs](#blogs)
+
 [Reading Lists](#reading-lists)
+
 [Frameworks](#frameworks)
 
 ## Doctrines

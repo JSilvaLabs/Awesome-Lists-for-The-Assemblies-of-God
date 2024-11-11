@@ -1,22 +1,14 @@
-# Awesome-Lists-for-The-Assemblies-of-God
-
+# Awesome-Lists-for-The-Assemblies-of-God [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Content
-[Doctrines](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Doctrines)
-
-[Ministries](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Ministries)
-
-[Podcasts](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Podcasts)
-
-[YouTube Channels](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#YouTube_Channels)
-
-[Instagram](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Instagram)
-
-[Blogs](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Blogs)
-
-[Reading Lists](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Reading_Lists)
-
-[Frameworks](https://github.com/JSilvaLabs/Awesome-Lists-for-The-Assemblies-of-God#Frameworks)
+[Doctrines](#doctrines)
+[Ministries](#ministries)
+[Podcasts](#podcasts)
+[YouTube Channels](#youtube-channels)
+[Instagram](#instagram)
+[Blogs](#blogs)
+[Reading Lists](#reading-lists)
+[Frameworks](#frameworks)
 
 ## Doctrines
 1. Assemblies of God
@@ -95,6 +87,7 @@
       - Pentecostal and Charismatic Churches of North America (PCCNA)
       - Pentecostal World Fellowship (PWF)
       - World Assemblies of God Fellowship (WAGF)
+
 ## Ministries
 1. Assemblies of God USA Ministries
    - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
@@ -215,12 +208,14 @@
        - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
        - [Ministry to Single Moms](http://www.loisbreit.com/)
        - [Widows Link](https://widowslink.org/)
+
 ## Podcasts
 1. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
 2. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
 3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
 4. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
 5. [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
+
 ## YouTube Channels
 1. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
 2. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
@@ -234,6 +229,7 @@
 10. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
 11. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
 12. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
 2. [AG Kidmin](https://www.instagram.com/agkidmin/)
@@ -248,9 +244,11 @@
       - [North Texas District](https://www.instagram.com/northtexas_ag/)
       - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
    - Churches
+
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
-## Reading_Lists
+
+## Reading Lists
 1. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)
       - Manhood

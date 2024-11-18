@@ -289,7 +289,9 @@
 ## Newsletters
 1. [Primeline](https://sam.ag.org/)
 2. [Rangers NOW](https://royalrangers.com/rangersnow)
-3. 
+3. Assemblies of God Professors
+   -LinkedIn Newsletters
+      - [Harris Speaks: Unmasking Bias](https://www.linkedin.com/newsletters/7248816858575826945)
 
 ## Reading Lists
 1. Royal Rangers Reading Lists

@@ -276,14 +276,14 @@
 3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
 
 ## Magazines
-1. [Enrichment Journal](https://enrichmentjournal.ag.org/)
-2. [Influence Magazine](https://influencemagazine.com/)
+1. [360 Spotlight- Light for the Lost](https://lftl.ag.org/360-Spotlight)
+2. [AG Heritage (Archive of Past Publications)](https://ifphc.org/)
 3. [AG News](https://news.ag.org/)
-4. [Worldview](https://agwm.org/en/worldview/)
-5. [Primeline](https://sam.ag.org/)
-6. [360 Spotlight- Light for the Lost](https://lftl.ag.org/360-Spotlight))
-7. [AG Heritage (Legacy)](https://ifphc.org/)
-8. [Pentecostal Evangel (Legacy)](https://ifphc.org/)
+   - [Pentecostal Evangel (Legacy)](https://ifphc.org/)
+4. [Influence Magazine](https://influencemagazine.com/)
+   - [Enrichment Journal (Legacy)](https://enrichmentjournal.ag.org/)
+4. [Primeline](https://sam.ag.org/)
+5. [Worldview](https://agwm.org/en/worldview/) 
 
 ## Newsletters
 1. [Primeline](https://sam.ag.org/)

@@ -244,7 +244,6 @@
 9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
 10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
  
-
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
 2. [AG BGMC](https://www.instagram.com/agbgmc/)
@@ -373,6 +372,7 @@
        -  Courageous Leadership by Bill Hybels
        -  Traveling Light by Max Lucado
        -  Choosing to Cheat by Andy Stanley
+
 ## Frameworks
 1. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)

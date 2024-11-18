@@ -278,9 +278,17 @@
 ## Magazines
 1. [Enrichment Journal](https://enrichmentjournal.ag.org/)
 2. [Influence Magazine](https://influencemagazine.com/)
+3. [AG News](https://news.ag.org/)
+4. [Worldview](https://agwm.org/en/worldview/)
+5. [Primeline](https://sam.ag.org/)
+6. [360 Spotlight- Light for the Lost](https://lftl.ag.org/360-Spotlight))
+7. [AG Heritage (Legacy)](https://ifphc.org/)
+8. [Pentecostal Evangel (Legacy)](https://ifphc.org/)
 
 ## Newsletters
-1. [Rangers NOW](https://royalrangers.com/rangersnow)
+1. [Primeline](https://sam.ag.org/)
+2. [Rangers NOW](https://royalrangers.com/rangersnow)
+3. 
 
 ## Reading Lists
 1. Royal Rangers Reading Lists

@@ -140,23 +140,28 @@
      - Legacy Transition Group
    - [Education](https://ag.org/Ministries/Education)
      - [AG Alliance for Higher Education](http://colleges.ag.org/)
-       - Assemblies of God Theological Seminary
-       - CARIBBEAN THEOLOGICAL COLLEGE
-       - CHRIST MISSION COLLEGE
-       - EVANGEL UNIVERSITY
-       - GLOBAL UNIVERSITY
-       - KOREAN ASSEMBLIES OF GOD THEOLOGICAL SCHOOL OF NEW YORK
-       - LABI COLLEGE
-       - LUMBEE RIVER CHRISTIAN COLLEGE
-       - NORTH CENTRAL UNIVERSITY
-       - NORTHPOINT BIBLE COLLEGE
-       - NORTHWEST UNIVERSITY
-       - SOUTHEASTERN UNIVERSITY
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIV. (AMERICAN INDIAN COLLEGE)
-       - SOUTHWESTERN ASSEMBLIES OF GOD UNIVERSITY
-       - TRINITY BIBLE COLLEGE
-       - UNIVERSITY OF VALLEY FORGE
-       - VANGUARD UNIVERSITY
+       - [Ascent College](ascent.edu)
+       - [Assemblies of God Theological Seminary](agts.edu)
+       - [Bridges Christian College](bcc.edu)
+       - [California Theological Seminary](http://www.agcts.com)
+       - [Caribbean Theological College](http://www.ctcad.org)
+       - [Christ Mission College](http://www.cmctx.edu/)
+       - [Evangel University](http://www.evangel.edu/)
+       - [Global University](http://www.globaluniversity.edu/)
+       - Korean Assemblies of God Theological School of New York
+       - [LABI College](http://www.labi.edu/)
+       - [Lumbee River Christian College](https://www.lumbeeriver.edu/)
+       - [North Central University](https://www.northcentral.edu/)
+       - [Northpoint Bible College and Seminary](http://northpoint.edu/)
+       - [Northpoint Bible College](http://www.northpointcollege.edu/)
+       - [Northwest University](https://www.northwestu.edu/)
+       - [Southeastern University](seu.edu)
+       - [Spanish Eastern Bible College](https://www.sededucation.org/)
+       - [Nelson American Indian Colelge](https://www.aicag.edu/))
+       - [Nelson University (formaly Southwestern Assemblies of God University)](sagu.edu)
+       - [Trinity Bible College](https://trinitybiblecollege.edu/)
+       - [University of Valley Forge](https://www.valleyforge.edu/)
+       - [Vanguard University](http://www.vanguard.edu/)
      - [Center for Holy Lands Studies](https://thechls.org/)
      - [Christian Schools](https://www.actsschools.org/)
      - [Curriculum]

@@ -14,6 +14,12 @@
 
 [Blogs](#blogs)
 
+[Scholarly Research Journals](#scholarly-research-journals)
+
+[Magazines](#magazines)
+
+[Newsletters](newsletters)
+
 [Reading Lists](#reading-lists)
 
 [Frameworks](#frameworks)
@@ -226,8 +232,9 @@
 1. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
 2. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
 3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
-4. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
-5. Individual Churches
+4. [Ranger Podcast](https://royalrangers.com/podcast)
+5. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+6. Individual Churches
    - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 
 ## YouTube Channels
@@ -262,6 +269,18 @@
 
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
+
+## Scholarly Research Journals
+1. [Journal of Sustainable Ministry submission form](https://seu.edu/academics/bcmt/journal-of-sustainable-ministry-article-submission/)
+2. [International Journal of Pentecostal Missiology](https://www.evangel.edu/seminary/student-resources/ijpm/)
+3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
+
+## Magazines
+1. [Enrichment Journal](https://enrichmentjournal.ag.org/)
+2. [Influence Magazine](https://influencemagazine.com/)
+
+## Newsletters
+1. [Rangers NOW](https://royalrangers.com/rangersnow)
 
 ## Reading Lists
 1. Royal Rangers Reading Lists

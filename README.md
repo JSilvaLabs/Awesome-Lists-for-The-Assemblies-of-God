@@ -188,7 +188,8 @@
    - [Youth Alive](https://youth.ag.org/YouthAlive)
 3. Recommended Ministries
    - Ministries for Ministers
-     - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/) 
+     - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
+     - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/)
    - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
      - Abortion Recovery
        - [SAVEONE](https://www.saveone.org/)

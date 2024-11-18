@@ -245,18 +245,19 @@
 
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
-2. [AG Kidmin](https://www.instagram.com/agkidmin/)
-3. [Called AG](https://www.instagram.com/called.ag/)
+2. [AG BGMC](https://www.instagram.com/agbgmc/)
+3. [AG Kidmin](https://www.instagram.com/agkidmin/)
 4. [Bible Engagement Project](https://www.instagram.com/bibleengagementproject/)
-5. [Church Multiplication Network](https://www.instagram.com/cmnetwork/)
-6. [AG BGMC](https://www.instagram.com/agbgmc/)
-7. [Speed The Light](https://www.instagram.com/agspeedthelight/)
+5. [Called AG](https://www.instagram.com/called.ag/)
+6. [Chi Alpha College Ministry](https://www.instagram.com/chialphausa/)
+7. [Church Multiplication Network](https://www.instagram.com/cmnetwork/)
 8. [Convoy of Hope](https://www.instagram.com/convoyofhope/)
-9. [Teen Challenge USA](https://www.instagram.com/teenchallengeusa/)
-   - Districts
-      - [North Texas District](https://www.instagram.com/northtexas_ag/)
-      - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
-   - Churches
+9. [Speed The Light](https://www.instagram.com/agspeedthelight/)
+10. [Teen Challenge USA](https://www.instagram.com/teenchallengeusa/)
+11. Districts
+    - [North Texas District](https://www.instagram.com/northtexas_ag/)
+    - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
+12. Churches
 
 ## Blogs
 1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)

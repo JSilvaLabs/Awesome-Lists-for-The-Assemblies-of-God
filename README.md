@@ -163,7 +163,7 @@
        - [Northwest University](https://www.northwestu.edu/)
        - [Southeastern University](seu.edu)
        - [Spanish Eastern Bible College](https://www.sededucation.org/)
-       - [Nelson American Indian Colelge](https://www.aicag.edu/))
+       - [Nelson American Indian College](https://www.aicag.edu/)
        - [Nelson University (formaly Southwestern Assemblies of God University)](sagu.edu)
        - [Trinity Bible College](https://trinitybiblecollege.edu/)
        - [University of Valley Forge](https://www.valleyforge.edu/)

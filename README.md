@@ -223,25 +223,27 @@
        - [Widows Link](https://widowslink.org/)
 
 ## Podcasts
-1. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
-2. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
+1. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
+2. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
 3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
-4. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
-5. [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
+4. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+5. Individual Churches
+   - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 
 ## YouTube Channels
-1. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
-2. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
-3. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
-4. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
-5. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
+2. [AG Kidmin](https://www.youtube.com/@AGKidmin)
+3. [AG Youth](https://www.youtube.com/@AGYouth)
+4. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
+5. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
 6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
-7. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
-8. [AG Kidmin](https://www.youtube.com/@AGKidmin)
-9. [AG Youth](https://www.youtube.com/@AGYouth)
-10. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
-11. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
-12. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+7. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
+8. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
+9. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+10. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
+ 
 
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)

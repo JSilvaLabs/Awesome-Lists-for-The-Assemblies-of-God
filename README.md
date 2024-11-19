@@ -295,6 +295,153 @@
 
 ## Reading Lists
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
+   - Salvation
+      - Books
+         - Knowing the Doctrines of the Bible By Myer Pearlman
+         - Bible Doctrines: A Pentecostal Perspective By William Menzies & Stanley M. Horton
+         - Now What? Salvation By Ralph W. Harris
+         - The Life of Faith By Mrs. C Nuzum
+      - Articles
+         - Defining Truths of the AG: Salvation By Thomas E. Trask
+         - Let Love Live By Dary Northrop
+         - A Theology of Evangelism By Robert E. Coleman
+         - Making Your Invitation Effective By Sam Farina
+         - Lost Urgency By Dr. George O. Wood
+         - How Can I Be Saved? By Robert Cunningham
+         - Soap, Soup and Salvation By Bill Allegacoon
+         - How Much Do I Have To Understand To Be Saved? By C.M. Ward
+         - Are You Trusting in a False Hope? By Ernest S. Williams
+      - Sermons
+         - Jesus as Savior
+         - Working out our Salvation
+         - The Beginning of the Walk By Dr. George Wood
+         - Five Objections to Jesus
+      - Media
+         - Our Indescribable Salvation (MP3) by Dr. George O. Wood
+         - Christianity 101 (MP3) by Dr. James T. Bradford
+         - Salvation as a Child (MP3) FPHC (Archive File)
+         - The Beginning of the Walk (MP3) by Dr. George O. Wood
+         - First Things First (MP3) By Dr. George Wood
+         - First the Good News (MP3) by Dr. George O. Wood
+         - Salvation of Tibetans (MP3) FPHC (Archive File)
+         - Salvation Testimony (MP3) FPHC (Archive File)
+         - Morris Plotts on Salvation (MP3) FPHC (Archive File)
+         - T.F. Gannon on Salvation (MP3) FPHC (Archive File)
+         - Salvation of Albert (MP3) by Dr. George O. Wood
+         - Manasseh's Reversal (MP3) by Dr. James T. Bradford     
+- Divine Healing
+   - Books
+      - Health and Healing By Lilian B. Yeomans
+   - Articles
+      - Healing and Atonement By Anthony D. Palma
+      - The Gift of Gifts of Healings By Thomas L. Holdcroft
+      - Definining Truths of the AG: Divine Healing By Thomas E. Trask
+      - Bioethics and Ministry By Christina M.H. Powell
+      - Gifts of Healing By L. Thomas Holdcroft
+      - When Child Dies By Richard D. Dobbins
+      - Teen Healed at Youth Revival
+      - Surviving the Loss of a Spouse By Richard D. Dobbins
+      - "Innocence Lost" Helping Victims of Childhood Sexual Abuse By Marnie C. Ferree
+      - Effective Hospital Visitation By Emmanuel L. William
+      - What Pastors Can Do To Help Victims of Domestic Violence in the Church By Grant L. Martin
+      - Church Rejoices over Miracle of Healing
+      - Ministering to Children with Disabilities By Julie Horner
+   - Sermons
+      - Divine Healing
+   - Media
+      - When Everything Changes (MP3) by Dr. James T. Bradford
+      - Healing and Its Results (Real Audio) by George O. Wood 
+      - A Second Chance On Life (Real Audio) by George O. Wood
+      - Faith and Healing (MP3) FPHC (Archive File)
+      - Betty Baxter on Healing (MP3) FPHC (Archive File)
+      - Husband's Healing (MP3) FPHC (Archive File)
+- Baptism in the Holy Spirit
+   - Books
+      - Baptism in the Holy Spirit By Anthony D. Palma
+      - Living in the Spirit By George O. Wood
+      - The Spirit Himself By Ralph M. Riggs
+      - When the Spirit Speaks By Warren D. Bullock
+      - Acts Today: Signs & Wonders of the Holy Spirit By Ralph W. Harris
+      - What the Bible Says about the Holy Spirit By Stanely M. Horton
+   - Articles
+      - The Spirit Giveth Life By Richard L. Dresselhaus
+      - The Marks of the Spirit-Filled Life By Russel E. Joyner
+      - Speaking in Tonges By A. Reuben Hartwick
+      - The Purpose and Value of Spiritual Gifts By R. B. Chapman
+      - The Promise of the Spirit By Anthony D. Palmai
+      - Preaching with the Holy Spirit By Craig Brian Larson
+      - Practical Implications of Terms Describing the Baptism in the Holy Spirit By Frank B. Rice Jr.
+      - The Power of Pentecost By Hardy Steinberg
+      - Pentecostal Hermeneutics I By Gordon L. Anderson
+      - Pentecostal Hermeneutics II By Gordon L. Anderson
+      - Pentecostal Experience and Hermeneutics By Roger Stronstad
+      - The Fruit of the Spirit: Self-Control By Gary B. McGee
+      - The Fruit of the Spirit: Peace By Morris O. William
+      - The Fruit of the Spirit: Kindness By Dorothea J. Lotter
+      - The Fruit of the Spirit: Love By James D. Hernando
+      - The Fruit of the Spirit: Gentleness By Stanley M. Horton
+      - The Fruit of the Spirit: Patience By Paul A. Lee
+      - The Fruit of the Spirit: Faithfulness By Victor R. Ostrom
+      - The Holy Spirit in the Old and New Testaments By Donald A. Tucker
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 1 By Tim Enloe
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 2 By Tim Enloe
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 3 By Tim Enloe
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 4 By Tim Enloe
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 5 By Tim Enloe
+      - The Nuts and Bolts of Ministering Spirit Baptism Part 6 By Tim Enloe
+      - Not by Might nor by Power By Stanley M.Horton
+      - The Holy Spirit in Luke-Acts By Roger Stronstad
+      - Spiritual Manifestations and Human Reactions By Delmer R. Guyne
+      - He Shall Glorify Me By A.D. Millard
+      - Grieve Not the Holy Spirit By Alex Karmakovic
+      - A Comparison of Glossolalia in Acts and Corinthians By Melvin Ho
+      - Is Glossolalia in Languages? By Jon Ruthven
+      - The Gifts and Fruit of the Spirit By Anthony D. Palma
+      - The Gift of Tongues in I Corinthians 14:1-5 By Benny C. Aker
+      - Filled with the Spirit 2 By Anthony D. Palma
+      - Filled with the Spirit 3 By Anthony D. Palma
+      - Communicating Spirit Baptism in Fresh New Ways By Gary Grogan
+      - An Interpretation of I Corinthians 14:20-25 By Francis C.R. Thee
+   - Sermons
+      - Phenomena of Pentecost
+      - Power From On High
+      - Pentecost Invitation
+      - Pentecost Past to Present
+      - Baptism and The Fullness of the Spirit
+      - Spirit and Speaking in Tongues
+      - The Person of the Spirit
+      - The Work of the Spirit
+      - The Gifts of the Spirit
+      - The Fruit of the Spirit
+      - Is Acts 2 for Today?
+      - The Significance of Pentecost
+      - Why Did God Choose Tonques?
+   - Media
+      - The Holy Spirit by Doug Clay
+      - The Meaning of Pentecost - AG Executive Leadership Team (ELT)
+      - The Holy Spirit at Home - Doug Clay with Evangelist Tim Enloe
+      - A Discussion on Pentecost - AG Executive Leadership Team (ELT)
+- The Second Coming
+   - Books
+      - Our Destiny: Biblical Teaching on the Last Things By Stanley Horton
+      - Systematic Theology By Stanley M. Horton
+   - Articles
+      - What Does the Future Hold? by Ken Horn
+      - The Second Coming of Christ By Thomas E. Trask
+      - The Second Coming: Why Don't We Talk About It? by Michael P. Horban
+      - Rapture Requirements By O. Eugene Valle
+      - I Believe in the Pre-Tribulation Rapture By Stanley M. Horton
+      - Has the Rapture been Called Off? By Dan Betzer
+      - Do We Really Believe? By W.E. Nunnally
+   - Sermons
+      - Jesus The Coming King
+      - The Judgement Seat
+      - Behold the Lamb By Dr. George Wood
+      - Did You Come? By Dr. George Wood
+   - Media
+      - Second Coming (MP3) by Charles E. Crank
+      - Behold the Lamb (MP3) by George O. Wood
+      - Did You Come? (MP3) by George O. Wood 
 2. Chi Alpha College Ministry
    - [Good Reads](https://chialpha.com/resources/#category=good-reads)
      - Real Devotion: Discovering the Whys Behind the Whats of the Gospel

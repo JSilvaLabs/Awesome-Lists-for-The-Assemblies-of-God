@@ -294,7 +294,41 @@
       - [Harris Speaks: Unmasking Bias](https://www.linkedin.com/newsletters/7248816858575826945)
 
 ## Reading Lists
-1. Royal Rangers Reading Lists
+1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
+2. Chi Alpha College Ministry
+   - [Good Reads](https://chialpha.com/resources/#category=good-reads)
+     - Real Devotion: Discovering the Whys Behind the Whats of the Gospel
+     - 40 Days of Decrease
+     - Ready, Set, Rest
+     - The Historical Validity of the Resurrection of Jesus Christ from the Dead
+     - The Inside-Out Kingdom
+     - 25 Essential Christian Books
+       - Pursuit of God - AW Tozer
+       - Knowledge of the Holy - AW Tozer
+       - Christ of the Indian Road - E Stanley Jones
+       - Christ and Human Suffering - E Stanley Jones
+       - Unshakable Kingdom - E Stanley Jones
+       - Practice of the Presence of God - Brother Lawrence
+       - Humility - Andrew Murray
+       - The Greatest Thing in the World - Henry Drummond
+       - The God They Never Knew - George Otis Jr.
+       - Mere Christianity - CS Lewis
+       - The Weight of Glory - CS Lewis
+       - Screwtape Letters - CS Lewis
+       - True Spirituality - Francis Schaeffer
+       - The Normal Christian Life - Watchman Nee
+       - The Cross and the Switchblade - David Wilkerson
+       - Bruchko - Bruce Olson
+       - Peace Child - Don Richardson
+       - Through the Gates of Splendor - Elizabeth Elliot
+       - Counterfeit Gods - Timothy Keller
+       - Reason for God - Timothy Keller
+       - What’s So Amazing About Grace - Philip Yancey
+       - Surprised by Hope - NT Wright
+       - The Live Dead Journal - Live Dead Team
+       - Radical - David Platt
+       - Discovering the Character of God - George MacDonald
+3. Royal Rangers Reading Lists
    - [Royal Ranger Leader Recommended Reading List](https://royalrangers.com/training/staff)
       - Manhood
         - Maximized Manhood - by Dr. Edwin Louis Cole
@@ -336,72 +370,40 @@
         - Dress for Success - by John T Molloy
         - Top to Toe - by Tony Glenville
         - Good Girls don't have to Dress Bad - by Shari Braendel (Option for female RR leaders)
-2. Chi Alpha College Ministry
-   - [Good Reads](https://chialpha.com/resources/#category=good-reads)
-     - Real Devotion: Discovering the Whys Behind the Whats of the Gospel
-     - 40 Days of Decrease
-     - Ready, Set, Rest
-     - The Historical Validity of the Resurrection of Jesus Christ from the Dead
-     - The Inside-Out Kingdom
-     - 25 Essential Christian Books
-       - Pursuit of God - AW Tozer
-       - Knowledge of the Holy - AW Tozer
-       - Christ of the Indian Road - E Stanley Jones
-       - Christ and Human Suffering - E Stanley Jones
-       - Unshakable Kingdom - E Stanley Jones
-       - Practice of the Presence of God - Brother Lawrence
-       - Humility - Andrew Murray
-       - The Greatest Thing in the World - Henry Drummond
-       - The God They Never Knew - George Otis Jr.
-       - Mere Christianity - CS Lewis
-       - The Weight of Glory - CS Lewis
-       - Screwtape Letters - CS Lewis
-       - True Spirituality - Francis Schaeffer
-       - The Normal Christian Life - Watchman Nee
-       - The Cross and the Switchblade - David Wilkerson
-       - Bruchko - Bruce Olson
-       - Peace Child - Don Richardson
-       - Through the Gates of Splendor - Elizabeth Elliot
-       - Counterfeit Gods - Timothy Keller
-       - Reason for God - Timothy Keller
-       - What’s So Amazing About Grace - Philip Yancey
-       - Surprised by Hope - NT Wright
-       - The Live Dead Journal - Live Dead Team
-       - Radical - David Platt
-       - Discovering the Character of God - George MacDonald    
-4. North Texas District
-   - Recommended Reading List
-     - [Better Marriage 365](https://northtexas.ag/better-marriage-365/)
-       -  [Never Settle For Good Enough by Kendall and Starla Bridges](https://www.amazon.com/dp/0692754377)
-     - [Sabbatical & Sabbath](https://northtexas.ag/sabbatical-sabbath/)
-       -  Clergy Renewal by Richard Bullock and Richard Brusehoff
-       -  Ordering your private World by Gordon MacDonald
-       -  Running on Empty by Wayne Cordero
-       -  Refresh, Renew, Revive by HB London, jr.
-       -  The Rest of God by Mark Buchanan
-       -  The DNA of Relationships by Gary Smalley
-       -  Inside Out by Larry Crabb
-       - Old list included the following:
-          -  “Love Revealed" by Kerry Clarensau
-          -  Rhythm of Life by Richard Exley
-          -  "24/6" by Matthew Sleeth
-          -  Sacred Slow by Alicia Chole
-          -  Divine Conspiracy by Dallas Willard
-5. Ohio Ministry Network
-   - Recommended Reading List
-     - [Sabbatical Handbook by the Ohio Minstry Network 2011](https://irp.cdn-website.com/6c57dff6/files/uploaded/Sabbatical-Handbook-Ohio.pdf)
-       -  The DNA of Relationships by Gary Smalley
-       -  One Size Doesn't Fit All by Gary L McIntosh
-       -  Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives by Wayne Muller
-       -  Deepening Your Ministry Through Prayer and Personal Growth by Eugene Peterson
-       -  Clergy Renewal: The Alban Guide to Sabbatical Planning by A. Richard Bullock and Richard J. Brueshehoff
-       -  Invitation to Solitude and Silence by Ruth Haley Barton
-       -  The Rest of God by Mark Buchanan
-       -  Daily Life in the Time of Jesus by Henri Daniel-Rops
-       -  Inside Out by Larry Crabb
-       -  Courageous Leadership by Bill Hybels
-       -  Traveling Light by Max Lucado
-       -  Choosing to Cheat by Andy Stanley
+4. Districts 
+   - North Texas District
+      - Recommended Reading List
+        - [Better Marriage 365](https://northtexas.ag/better-marriage-365/)
+          -  [Never Settle For Good Enough by Kendall and Starla Bridges](https://www.amazon.com/dp/0692754377)
+        - [Sabbatical & Sabbath](https://northtexas.ag/sabbatical-sabbath/)
+          -  Clergy Renewal by Richard Bullock and Richard Brusehoff
+          -  Ordering your private World by Gordon MacDonald
+          -  Running on Empty by Wayne Cordero
+          -  Refresh, Renew, Revive by HB London, jr.
+          -  The Rest of God by Mark Buchanan
+          -  The DNA of Relationships by Gary Smalley
+          -  Inside Out by Larry Crabb
+          - Old list included the following:
+             -  “Love Revealed" by Kerry Clarensau
+             -  Rhythm of Life by Richard Exley
+             -  "24/6" by Matthew Sleeth
+             -  Sacred Slow by Alicia Chole
+             -  Divine Conspiracy by Dallas Willard
+   - Ohio Ministry Network
+      - Recommended Reading List
+        - [Sabbatical Handbook by the Ohio Minstry Network 2011](https://irp.cdn-website.com/6c57dff6/files/uploaded/Sabbatical-Handbook-Ohio.pdf)
+          -  The DNA of Relationships by Gary Smalley
+          -  One Size Doesn't Fit All by Gary L McIntosh
+          -  Sabbath: Finding Rest, Renewal, and Delight in Our Busy Lives by Wayne Muller
+          -  Deepening Your Ministry Through Prayer and Personal Growth by Eugene Peterson
+          -  Clergy Renewal: The Alban Guide to Sabbatical Planning by A. Richard Bullock and Richard J. Brueshehoff
+          -  Invitation to Solitude and Silence by Ruth Haley Barton
+          -  The Rest of God by Mark Buchanan
+          -  Daily Life in the Time of Jesus by Henri Daniel-Rops
+          -  Inside Out by Larry Crabb
+          -  Courageous Leadership by Bill Hybels
+          -  Traveling Light by Max Lucado
+          -  Choosing to Cheat by Andy Stanley
 
 ## Frameworks
 1. AG Christian Education and Discipleship

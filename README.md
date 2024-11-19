@@ -20,6 +20,8 @@
 
 [Newsletters](newsletters)
 
+[Videos](#videos)
+
 [Reading Lists](#reading-lists)
 
 [Frameworks](#frameworks)
@@ -292,6 +294,42 @@
 3. Assemblies of God Professors
    -LinkedIn Newsletters
       - [Harris Speaks: Unmasking Bias](https://www.linkedin.com/newsletters/7248816858575826945)
+
+## Videos
+1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
+   - Salvation
+      - Media
+         - Our Indescribable Salvation (MP3) by Dr. George O. Wood
+         - Christianity 101 (MP3) by Dr. James T. Bradford
+         - Salvation as a Child (MP3) FPHC (Archive File)
+         - The Beginning of the Walk (MP3) by Dr. George O. Wood
+         - First Things First (MP3) By Dr. George Wood
+         - First the Good News (MP3) by Dr. George O. Wood
+         - Salvation of Tibetans (MP3) FPHC (Archive File)
+         - Salvation Testimony (MP3) FPHC (Archive File)
+         - Morris Plotts on Salvation (MP3) FPHC (Archive File)
+         - T.F. Gannon on Salvation (MP3) FPHC (Archive File)
+         - Salvation of Albert (MP3) by Dr. George O. Wood
+         - Manasseh's Reversal (MP3) by Dr. James T. Bradford     
+   - Divine Healing
+      - Media
+         - When Everything Changes (MP3) by Dr. James T. Bradford
+         - Healing and Its Results (Real Audio) by George O. Wood 
+         - A Second Chance On Life (Real Audio) by George O. Wood
+         - Faith and Healing (MP3) FPHC (Archive File)
+         - Betty Baxter on Healing (MP3) FPHC (Archive File)
+         - Husband's Healing (MP3) FPHC (Archive File)
+   - Baptism in the Holy Spirit
+      - Media
+         - The Holy Spirit by Doug Clay
+         - The Meaning of Pentecost - AG Executive Leadership Team (ELT)
+         - The Holy Spirit at Home - Doug Clay with Evangelist Tim Enloe
+         - A Discussion on Pentecost - AG Executive Leadership Team (ELT)
+   - The Second Coming
+      - Media
+         - Second Coming (MP3) by Charles E. Crank
+         - Behold the Lamb (MP3) by George O. Wood
+         - Did You Come? (MP3) by George O. Wood 
 
 ## Reading Lists
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)

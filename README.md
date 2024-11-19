@@ -236,8 +236,9 @@
 2. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
 3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
 4. [Ranger Podcast](https://royalrangers.com/podcast)
-5. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
-6. Individual Churches
+5. [Shades of Understanding by Chi Alpha Podcast Network](https://pod.co/shades-of-understanding)
+6. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+7. Individual Churches
    - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 
 ## YouTube Channels

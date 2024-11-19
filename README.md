@@ -329,7 +329,25 @@
       - Media
          - Second Coming (MP3) by Charles E. Crank
          - Behold the Lamb (MP3) by George O. Wood
-         - Did You Come? (MP3) by George O. Wood 
+         - Did You Come? (MP3) by George O. Wood
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Second-Coming)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session
+            - Testimony Perspective (Complete)
+            - Individual Testimony (Debbie)
+            - Individual Testimony (Deborah)
+            - Individual Testimony (Miranda)
+            - Individual Testimony (Stanley)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code) 
 
 ## Reading Lists
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)

@@ -310,7 +310,24 @@
          - Morris Plotts on Salvation (MP3) FPHC (Archive File)
          - T.F. Gannon on Salvation (MP3) FPHC (Archive File)
          - Salvation of Albert (MP3) by Dr. George O. Wood
-         - Manasseh's Reversal (MP3) by Dr. James T. Bradford     
+         - Manasseh's Reversal (MP3) by Dr. James T. Bradford
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Salvation)
+      - High Resolution Videos
+         - Sermon Lead-In (Short Version)
+         - Sermon Lead-In with Subtitles (Short Version)
+         - Complete Teaching (Long Version)
+         - Complete Teaching with Subtitles (Long Version)
+         - Round Table Session
+         - Testimony Perspective (Complete)
+         - Individual Testimony (Ron)
+         - Individual Testimony (Greg)
+         - Individual Testimony (Debbie)
+      - Videos For Your Web Site
+         - Complete Video Set (Zip File)
+         - Sermon Lead-In (Embed Code)
+         - Complete Teaching (Embed Code)
+         - Round Table Session (Embed Code)
+         - Testimony Perspective (Embed Code) 
    - Divine Healing
       - Media
          - When Everything Changes (MP3) by Dr. James T. Bradford
@@ -319,12 +336,47 @@
          - Faith and Healing (MP3) FPHC (Archive File)
          - Betty Baxter on Healing (MP3) FPHC (Archive File)
          - Husband's Healing (MP3) FPHC (Archive File)
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Divine-Healing)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session
+            - Testimony Perspective (Complete)
+            - Testimony (Julie-Cancer)
+            - Testimony (Benny-Paralysis)
+            - Testimony (Wally-Autism)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code) 
    - Baptism in the Holy Spirit
       - Media
          - The Holy Spirit by Doug Clay
          - The Meaning of Pentecost - AG Executive Leadership Team (ELT)
          - The Holy Spirit at Home - Doug Clay with Evangelist Tim Enloe
          - A Discussion on Pentecost - AG Executive Leadership Team (ELT)
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session Part 1
+            - Round Table Session Part 2
+            - Testimony Perspective (Complete)
+            - Individual Testimony (Saehee)
+            - Individual Testimony (Damon)
+            - Individual Testimony (Darryl)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code)
    - The Second Coming
       - Media
          - Second Coming (MP3) by Charles E. Crank

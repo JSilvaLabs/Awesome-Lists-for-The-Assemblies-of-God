@@ -82,10 +82,10 @@
         - [The Role of Women in Ministry](https://ag.org/Beliefs/Position-Papers/The-Role-of-Women-in-Ministry)
         - [Transgenderism, Transsexuality, And Gender Identity](https://ag.org/Beliefs/Position-Papers/Transgenderism-Transsexuality-and-Gender-Identity)
         - [Worship in the Bible](https://ag.org/Beliefs/Position-Papers/Worship-in-the-Bible)
-     - [Royal Rangers](https://royalrangers.com/policies/standards)
-        - Position on Sexual Morality
+     - Royal Rangers
+        - [Position on Sexual Morality](https://royalrangers.com/policies/standards)
    - Official Statements
-     - [Assemblies of God Official Statements](https://ag.org/About/Official-Statements)
+     - Assemblies of God Official Statements
         - [Statement Regarding Chi Alpha](https://ag.org/xastatement)
         - [Statement Against Antisemitism](https://news.ag.org/en/articles/news/2022/11/statement-against-antisemitism)
         - [Resolution on Racism](https://news.ag.org/en/articles/news/2010/02/resolution-on-racism)

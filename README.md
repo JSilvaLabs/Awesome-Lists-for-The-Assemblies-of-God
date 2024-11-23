@@ -53,32 +53,35 @@
         - Redefinition of Marriage and Human Sexuality
         - Hyper-Grace Issue Position Paper
      - [Assemblies of God USA Position Papers](https://ag.org/Beliefs/Position-Papers)
-        - Abstinence from Alcohol
-        - Apostles and Prophets
-        - Assurance of Salvation
-        - Baptism in the Holy Spirit
-        - A Biblical Perspective on Gambling
-        - Doctrine of Creation
-        - Church Mission and Peacemaking
-        - Divine Healing
-        - Divorce and Remarriage
-        - Domestic Violence
-        - Eternal Punishment
-        - Homosexuality, Marriage, and Sexual Identity
-        - Inspiration, Inerrancy, and Authority of Scripture
-        - Kingdom of God
-        - Leadership and Governance in the Local Church
-        - Ministry to People With Disabilities - A Biblical Perspective
-        - Ordination: The Recognition of a Call to Ministry
-        - Positive Confession, The Believer And…
-        - Rapture of the Church
-        - Reformed Theology, A Response to…
-        - Sanctity of Human Life - Abortion and Reproductive Issues
-        - Sanctity of Human Life - Suicide and Euthanasia
-        - Spiritual Warfare and the Believer
-        - The Role of Women in Ministry
-        - Transgenderism, Transsexuality, And Gender Identity
-        - Worship in the Bible
+        - [Abstinence from Alcohol](https://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcoholhttps://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcohol)
+        - [Apostles and Prophets](https://ag.org/Beliefs/Position-Papers/Apostles-and-Prophets)
+        - [Assurance of Salvation](https://ag.org/Beliefs/Position-Papers/Assurance-Of-Salvation)
+        - [Baptism in the Holy Spirit](https://ag.org/Beliefs/Position-Papers/Baptism-in-the-Holy-Spirit)
+        - [A Biblical Perspective on Gambling](https://ag.org/Beliefs/Position-Papers/A-Biblical-Perspective-on-Gambling)
+        - [Doctrine of Creation](https://ag.org/Beliefs/Position-Papers/The-Doctrine-of-Creation)
+        - [Church Mission and Peacemaking](https://ag.org/Beliefs/Position-Papers/Church-Mission-and-Peacemaking))
+        - [Divine Healing](https://ag.org/Beliefs/Position-Papers/Divine-Healing)
+        - [Divorce and Remarriage](https://ag.org/Beliefs/Position-Papers/Divorce-and-Remarriage)
+        - [Domestic Violence](https://ag.org/Beliefs/Position-Papers/Domestic-Violence)
+        - [Eternal Punishment](https://ag.org/Beliefs/Position-Papers/Final-Judgment)
+        - [Homosexuality, Marriage, and Sexual Identity](https://ag.org/Beliefs/Position-Papers/Homosexuality-Marriage-and-Sexual-Identity)
+        - [Inspiration, Inerrancy, and Authority of Scripture](https://ag.org/Beliefs/Position-Papers/Inspiration-Inerrancy-Authority-of-Scripture)
+        - [Kingdom of God](https://ag.org/Beliefs/Position-Papers/Kingdom-of-God)
+        - [Leadership and Governance in the Local Church](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
+        - [Ordination: The Recognition of a Call to Ministry](https://ag.org/Beliefs/Position-Papers/Ordination---The-Recognition-of-a-Call-to-Ministry))
+        - [Ministry to People With Disabilities - A Biblical Perspective](https://ag.org/Beliefs/Position-Papers/Persons-with-Disabilities-in-the-Ministry-of-the-Church)
+        - [Positive Confession, The Believer And…](https://ag.org/Beliefs/Position-Papers/The-Believer-and-Positive-Confession)
+        - [Premillennial-Eschatology (new August 2024)](https://ag.org/Beliefs/Position-Papers/Premillennial-Eschatology)
+        - [Racism, a Biblical Response](https://ag.org/Beliefs/Position-Papers/Racism-a-Biblical-Response)
+        - [Rapture of the Church](https://ag.org/Beliefs/Position-Papers/The-Rapture-of-the-Church)
+        - [Reformed Theology, A Response to…](https://ag.org/Beliefs/Position-Papers/Reformed-Theology-Response-of-the-AG-Position-Paper)
+        - [Revival and Spiritual Renewal (new Aug 2024](https://ag.org/Beliefs/Position-Papers/Revival-and-Spiritual-Renewal)
+        - [Sanctity of Human Life - Abortion and Reproductive Issues](https://ag.org/Beliefs/Position-Papers/Abortion-Sanctity-of-Human-Life)
+        - [Sanctity of Human Life - Suicide and Euthanasia](https://ag.org/Beliefs/Position-Papers/Suicide-Assisted-Suicide-Official-AG-Position-Paper)
+        - [Spiritual Warfare and the Believer](https://ag.org/Beliefs/Position-Papers/Spiritual-Warfare-and-the-Believer)
+        - [The Role of Women in Ministry](https://ag.org/Beliefs/Position-Papers/The-Role-of-Women-in-Ministry)
+        - [Transgenderism, Transsexuality, And Gender Identity](https://ag.org/Beliefs/Position-Papers/Transgenderism-Transsexuality-and-Gender-Identity)
+        - [Worship in the Bible](https://ag.org/Beliefs/Position-Papers/Worship-in-the-Bible)
      - [Royal Rangers](https://royalrangers.com/policies/standards)
         - Position on Sexual Morality
    - Official Statements

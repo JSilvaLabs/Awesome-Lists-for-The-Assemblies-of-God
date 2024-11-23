@@ -100,9 +100,9 @@
        - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
      - District Level
        - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/sabbath---sabbatical)
-       - Study Leave
-       - Rest and Spiritual Renewal Leave
-       - Special Project Leave
+          - Study Leave
+          - Rest and Spiritual Renewal Leave
+          - Special Project Leave
    - [Affiliations](https://ag.org/About/About-the-AG/Affiliations)
       - National Association of Evangelicals (NAE)
       - Pentecostal and Charismatic Churches of North America (PCCNA)

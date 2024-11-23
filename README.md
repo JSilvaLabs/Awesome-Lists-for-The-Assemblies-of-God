@@ -92,8 +92,9 @@
         - [Response Regarding NAE Immigration Resolution](https://news.ag.org/en/articles/news/2009/10/response%20regarding%20nae%20immigration%20resolution)
         - [Statement on George Floyd, Racism, and Racial Reconciliation](
         - [Statement on Revival](https://news.ag.org/en/articles/news/2008/08/statement%20on%20revival)
-   - Constitution and Bylaws
+   - Structure, Constitution, and Bylaws
      - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
+     - [Structure](https://ag.org/About/About-the-AG/Structure)
    - Recommendations
      - National Level
        - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
@@ -667,7 +668,12 @@
           -  Choosing to Cheat by Andy Stanley
 
 ## Frameworks
-1. AG Christian Education and Discipleship
+1. [AG Mission](https://ag.org/About/About-the-AG/Mission)
+   - Evangelize the lost
+   - Worship God
+   - Disciple believers
+   - Show compassion
+3. AG Christian Education and Discipleship
    - [7 Dimensions of a Spirit-Filled Disciple](https://discipleship.ag.org/7-Dimensions)
       - Bible
       - Holy Spirit
@@ -676,7 +682,7 @@
       - Worship
       - Service
       - Generosity 
-2. Chi Alpha
+4. Chi Alpha
    - [Five-Fold Approach](https://chialpha.com/about/our-story/)
       - Prayer
       - Worship
@@ -690,19 +696,19 @@
       - Excellence
       - Integrity
       - Servant-Leadership
-3. Mens Ministry
+5. Mens Ministry
    - [Four Dimensions of Biblical Manhood](https://men.ag.org/Free-Resources)
       - Vision
       - Identity
       - Relationships
       - Purpose
-4. Radiant Life
+6. Radiant Life
    - [Curriculum Philosophy](https://myhealthychurch.com/store/Item_Data/downloads/RL_Scope_Sequence_21_23.pdf)
       - Pentecostal
       - Systematic
       - Transformative
       - Adaptable
-5. Royal Rangers
+7. Royal Rangers
    - [Eight Blue Points (Royal Ranger Code)](https://royalrangers.com/about)
       - Alert
       - Clean
@@ -737,7 +743,7 @@
       - Discipleship
       - Leadership
       - Service
-6. [Network of Women Ministers (NWM)](https://www.womenministers.ag.org/about-nwm)
+8. [Network of Women Ministers (NWM)](https://www.womenministers.ag.org/about-nwm)
    - Four Pillars
       - Foster Community
       - Enhance Theological Awareness

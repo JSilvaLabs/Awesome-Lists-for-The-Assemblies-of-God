@@ -48,10 +48,10 @@
         - The New Heavens and the New Earth
    - Official Positions
      - [World Assemblies of God Fellowship Theological Commission Position Papers](https://worldagfellowship.org/Fellowship/Bylaws-Membership-Position-Papers)
-        - Revised Pentecostal Theology of Compassion
-        - Essential Nature of the Church as the Missional People of God as Reflected in Pentecostal Self-Understanding
-        - Redefinition of Marriage and Human Sexuality
-        - Hyper-Grace Issue Position Paper
+        - [Revised Pentecostal Theology of Compassion](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/PentecostalTheologyofCompassionWAGFPositionPaperFinalRevisedVersionfrom1May2012withnewcover.pdf)
+        - [Essential Nature of the Church as the Missional People of God as Reflected in Pentecostal Self-Understanding](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/4eFinalVersionEssentialNatureofChurchRevCdnTheoComm1.pdf)
+        - [Redefinition of Marriage and Human Sexuality](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Redefinition-of-Marriage-and-Human-Sexuality-WAGF-Website-Version.pdf)
+        - [Hyper-Grace Issue Position Paper](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Hyper-Grace-Issue-Position-Paper-Draft-US-Letter-Format.pdf)
      - [Assemblies of God USA Position Papers](https://ag.org/Beliefs/Position-Papers)
         - [Abstinence from Alcohol](https://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcoholhttps://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcohol)
         - [Apostles and Prophets](https://ag.org/Beliefs/Position-Papers/Apostles-and-Prophets)

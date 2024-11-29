@@ -12,13 +12,13 @@
 
 [Podcasts](#podcasts)
 
+[Reading Lists](#reading-lists)
+
 [Scholarly Research Journals](#scholarly-research-journals)
 
 [Videos](#videos)
 
 [YouTube Channels](#youtube-channels)
-
-[Reading Lists](#reading-lists)
 
 [Doctrines](#doctrines)
 
@@ -72,131 +72,6 @@
 7. Individual Churches
    - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
 
-## Scholarly Research Journals
-1. [Journal of Sustainable Ministry submission form](https://seu.edu/academics/bcmt/journal-of-sustainable-ministry-article-submission/)
-2. [International Journal of Pentecostal Missiology](https://www.evangel.edu/seminary/student-resources/ijpm/)
-3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
-
-## Videos
-1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
-   - Salvation
-      - Media
-         - Our Indescribable Salvation (MP3) by Dr. George O. Wood
-         - Christianity 101 (MP3) by Dr. James T. Bradford
-         - Salvation as a Child (MP3) FPHC (Archive File)
-         - The Beginning of the Walk (MP3) by Dr. George O. Wood
-         - First Things First (MP3) By Dr. George Wood
-         - First the Good News (MP3) by Dr. George O. Wood
-         - Salvation of Tibetans (MP3) FPHC (Archive File)
-         - Salvation Testimony (MP3) FPHC (Archive File)
-         - Morris Plotts on Salvation (MP3) FPHC (Archive File)
-         - T.F. Gannon on Salvation (MP3) FPHC (Archive File)
-         - Salvation of Albert (MP3) by Dr. George O. Wood
-         - Manasseh's Reversal (MP3) by Dr. James T. Bradford
-      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Salvation)
-      - High Resolution Videos
-         - Sermon Lead-In (Short Version)
-         - Sermon Lead-In with Subtitles (Short Version)
-         - Complete Teaching (Long Version)
-         - Complete Teaching with Subtitles (Long Version)
-         - Round Table Session
-         - Testimony Perspective (Complete)
-         - Individual Testimony (Ron)
-         - Individual Testimony (Greg)
-         - Individual Testimony (Debbie)
-      - Videos For Your Web Site
-         - Complete Video Set (Zip File)
-         - Sermon Lead-In (Embed Code)
-         - Complete Teaching (Embed Code)
-         - Round Table Session (Embed Code)
-         - Testimony Perspective (Embed Code) 
-   - Divine Healing
-      - Media
-         - When Everything Changes (MP3) by Dr. James T. Bradford
-         - Healing and Its Results (Real Audio) by George O. Wood 
-         - A Second Chance On Life (Real Audio) by George O. Wood
-         - Faith and Healing (MP3) FPHC (Archive File)
-         - Betty Baxter on Healing (MP3) FPHC (Archive File)
-         - Husband's Healing (MP3) FPHC (Archive File)
-      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Divine-Healing)
-         - High Resolution Videos
-            - Sermon Lead-In (Short Version)
-            - Sermon Lead-In with Subtitles (Short Version)
-            - Complete Teaching (Long Version)
-            - Complete Teaching with Subtitles (Long Version)
-            - Round Table Session
-            - Testimony Perspective (Complete)
-            - Testimony (Julie-Cancer)
-            - Testimony (Benny-Paralysis)
-            - Testimony (Wally-Autism)
-         - Videos For Your Web Site
-            - Complete Video Set (Zip File)
-            - Sermon Lead-In (Embed Code)
-            - Complete Teaching (Embed Code)
-            - Round Table Session (Embed Code)
-            - Testimony Perspective (Embed Code) 
-   - Baptism in the Holy Spirit
-      - Media
-         - The Holy Spirit by Doug Clay
-         - The Meaning of Pentecost - AG Executive Leadership Team (ELT)
-         - The Holy Spirit at Home - Doug Clay with Evangelist Tim Enloe
-         - A Discussion on Pentecost - AG Executive Leadership Team (ELT)
-      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit)
-         - High Resolution Videos
-            - Sermon Lead-In (Short Version)
-            - Sermon Lead-In with Subtitles (Short Version)
-            - Complete Teaching (Long Version)
-            - Complete Teaching with Subtitles (Long Version)
-            - Round Table Session Part 1
-            - Round Table Session Part 2
-            - Testimony Perspective (Complete)
-            - Individual Testimony (Saehee)
-            - Individual Testimony (Damon)
-            - Individual Testimony (Darryl)
-         - Videos For Your Web Site
-            - Complete Video Set (Zip File)
-            - Sermon Lead-In (Embed Code)
-            - Complete Teaching (Embed Code)
-            - Round Table Session (Embed Code)
-            - Testimony Perspective (Embed Code)
-   - The Second Coming
-      - Media
-         - Second Coming (MP3) by Charles E. Crank
-         - Behold the Lamb (MP3) by George O. Wood
-         - Did You Come? (MP3) by George O. Wood
-      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Second-Coming)
-         - High Resolution Videos
-            - Sermon Lead-In (Short Version)
-            - Sermon Lead-In with Subtitles (Short Version)
-            - Complete Teaching (Long Version)
-            - Complete Teaching with Subtitles (Long Version)
-            - Round Table Session
-            - Testimony Perspective (Complete)
-            - Individual Testimony (Debbie)
-            - Individual Testimony (Deborah)
-            - Individual Testimony (Miranda)
-            - Individual Testimony (Stanley)
-         - Videos For Your Web Site
-            - Complete Video Set (Zip File)
-            - Sermon Lead-In (Embed Code)
-            - Complete Teaching (Embed Code)
-            - Round Table Session (Embed Code)
-            - Testimony Perspective (Embed Code) 
-
-## YouTube Channels
-1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
-2. [AG Kidmin](https://www.youtube.com/@AGKidmin)
-3. [AG Youth](https://www.youtube.com/@AGYouth)
-4. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
-5. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
-6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
-7. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
-8. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
-9. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
-10. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
-9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
-10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
- 
 ## Reading Lists
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
    - Salvation
@@ -456,6 +331,131 @@
           -  Traveling Light by Max Lucado
           -  Choosing to Cheat by Andy Stanley
 
+## Scholarly Research Journals
+1. [Journal of Sustainable Ministry submission form](https://seu.edu/academics/bcmt/journal-of-sustainable-ministry-article-submission/)
+2. [International Journal of Pentecostal Missiology](https://www.evangel.edu/seminary/student-resources/ijpm/)
+3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
+
+## Videos
+1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
+   - Salvation
+      - Media
+         - Our Indescribable Salvation (MP3) by Dr. George O. Wood
+         - Christianity 101 (MP3) by Dr. James T. Bradford
+         - Salvation as a Child (MP3) FPHC (Archive File)
+         - The Beginning of the Walk (MP3) by Dr. George O. Wood
+         - First Things First (MP3) By Dr. George Wood
+         - First the Good News (MP3) by Dr. George O. Wood
+         - Salvation of Tibetans (MP3) FPHC (Archive File)
+         - Salvation Testimony (MP3) FPHC (Archive File)
+         - Morris Plotts on Salvation (MP3) FPHC (Archive File)
+         - T.F. Gannon on Salvation (MP3) FPHC (Archive File)
+         - Salvation of Albert (MP3) by Dr. George O. Wood
+         - Manasseh's Reversal (MP3) by Dr. James T. Bradford
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Salvation)
+      - High Resolution Videos
+         - Sermon Lead-In (Short Version)
+         - Sermon Lead-In with Subtitles (Short Version)
+         - Complete Teaching (Long Version)
+         - Complete Teaching with Subtitles (Long Version)
+         - Round Table Session
+         - Testimony Perspective (Complete)
+         - Individual Testimony (Ron)
+         - Individual Testimony (Greg)
+         - Individual Testimony (Debbie)
+      - Videos For Your Web Site
+         - Complete Video Set (Zip File)
+         - Sermon Lead-In (Embed Code)
+         - Complete Teaching (Embed Code)
+         - Round Table Session (Embed Code)
+         - Testimony Perspective (Embed Code) 
+   - Divine Healing
+      - Media
+         - When Everything Changes (MP3) by Dr. James T. Bradford
+         - Healing and Its Results (Real Audio) by George O. Wood 
+         - A Second Chance On Life (Real Audio) by George O. Wood
+         - Faith and Healing (MP3) FPHC (Archive File)
+         - Betty Baxter on Healing (MP3) FPHC (Archive File)
+         - Husband's Healing (MP3) FPHC (Archive File)
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Divine-Healing)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session
+            - Testimony Perspective (Complete)
+            - Testimony (Julie-Cancer)
+            - Testimony (Benny-Paralysis)
+            - Testimony (Wally-Autism)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code) 
+   - Baptism in the Holy Spirit
+      - Media
+         - The Holy Spirit by Doug Clay
+         - The Meaning of Pentecost - AG Executive Leadership Team (ELT)
+         - The Holy Spirit at Home - Doug Clay with Evangelist Tim Enloe
+         - A Discussion on Pentecost - AG Executive Leadership Team (ELT)
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Baptism-in-the-Holy-Spirit)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session Part 1
+            - Round Table Session Part 2
+            - Testimony Perspective (Complete)
+            - Individual Testimony (Saehee)
+            - Individual Testimony (Damon)
+            - Individual Testimony (Darryl)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code)
+   - The Second Coming
+      - Media
+         - Second Coming (MP3) by Charles E. Crank
+         - Behold the Lamb (MP3) by George O. Wood
+         - Did You Come? (MP3) by George O. Wood
+      - [Other Media](https://ag.org/Beliefs/Our-Core-Doctrines/Second-Coming)
+         - High Resolution Videos
+            - Sermon Lead-In (Short Version)
+            - Sermon Lead-In with Subtitles (Short Version)
+            - Complete Teaching (Long Version)
+            - Complete Teaching with Subtitles (Long Version)
+            - Round Table Session
+            - Testimony Perspective (Complete)
+            - Individual Testimony (Debbie)
+            - Individual Testimony (Deborah)
+            - Individual Testimony (Miranda)
+            - Individual Testimony (Stanley)
+         - Videos For Your Web Site
+            - Complete Video Set (Zip File)
+            - Sermon Lead-In (Embed Code)
+            - Complete Teaching (Embed Code)
+            - Round Table Session (Embed Code)
+            - Testimony Perspective (Embed Code) 
+
+## YouTube Channels
+1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
+2. [AG Kidmin](https://www.youtube.com/@AGKidmin)
+3. [AG Youth](https://www.youtube.com/@AGYouth)
+4. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
+5. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
+6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
+7. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
+8. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
+9. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+10. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
+ 
 ## Doctrines
 1. Assemblies of God
    - Doctrines

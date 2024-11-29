@@ -2,265 +2,33 @@
 > Assemblies of God, AG, Ministry, Church, Christianity, Christian
 
 ## Content
+[Blogs](#blogs)
+
+[Instagram](#instagram)
+
+[Newsletters](newsletters)
+
+[Magazines](#magazines)
+
+[Podcasts](#podcasts)
+
+[Scholarly Research Journals](#scholarly-research-journals)
+
+[Videos](#videos)
+
+[YouTube Channels](#youtube-channels)
+
+[Reading Lists](#reading-lists)
+
 [Doctrines](#doctrines)
 
 [Ministries](#ministries)
 
-[Podcasts](#podcasts)
-
-[YouTube Channels](#youtube-channels)
-
-[Instagram](#instagram)
-
-[Blogs](#blogs)
-
-[Scholarly Research Journals](#scholarly-research-journals)
-
-[Magazines](#magazines)
-
-[Newsletters](newsletters)
-
-[Videos](#videos)
-
-[Reading Lists](#reading-lists)
-
 [Frameworks](#frameworks)
 
-## Doctrines
-1. Assemblies of God
-   - Doctrines
-     - [Assemblies of God 16 Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths)
-        - The Scriptures Inspired
-        - The One True God
-        - The Deity of the Lord Jesus Christ
-        - The Fall of Man
-        - The Salvation of Man
-        - The Ordinances of the Church
-        - The Baptism in the Holy Spirit
-        - The Initial Physical Evidence of the Baptism in the Holy Spirit
-        - Sanctification
-        - The Church and Its Mission
-        - The Ministry
-        - Divine Healing
-        - The Blessed Hope
-        - The Millennial Reign of Christ
-        - The Final Judgment
-        - The New Heavens and the New Earth
-   - Official Positions
-     - World Assemblies of God Fellowship Theological Commission Position Papers
-        - [Revised Pentecostal Theology of Compassion](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/PentecostalTheologyofCompassionWAGFPositionPaperFinalRevisedVersionfrom1May2012withnewcover.pdf)
-        - [Essential Nature of the Church as the Missional People of God as Reflected in Pentecostal Self-Understanding](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/4eFinalVersionEssentialNatureofChurchRevCdnTheoComm1.pdf)
-        - [Redefinition of Marriage and Human Sexuality](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Redefinition-of-Marriage-and-Human-Sexuality-WAGF-Website-Version.pdf)
-        - [Hyper-Grace Issue Position Paper](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Hyper-Grace-Issue-Position-Paper-Draft-US-Letter-Format.pdf)
-     - Assemblies of God USA Position Papers
-        - [Abstinence from Alcohol](https://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcoholhttps://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcohol)
-        - [Apostles and Prophets](https://ag.org/Beliefs/Position-Papers/Apostles-and-Prophets)
-        - [Assurance of Salvation](https://ag.org/Beliefs/Position-Papers/Assurance-Of-Salvation)
-        - [Baptism in the Holy Spirit](https://ag.org/Beliefs/Position-Papers/Baptism-in-the-Holy-Spirit)
-        - [A Biblical Perspective on Gambling](https://ag.org/Beliefs/Position-Papers/A-Biblical-Perspective-on-Gambling)
-        - [Doctrine of Creation](https://ag.org/Beliefs/Position-Papers/The-Doctrine-of-Creation)
-        - [Church Mission and Peacemaking](https://ag.org/Beliefs/Position-Papers/Church-Mission-and-Peacemaking)
-        - [Divine Healing](https://ag.org/Beliefs/Position-Papers/Divine-Healing)
-        - [Divorce and Remarriage](https://ag.org/Beliefs/Position-Papers/Divorce-and-Remarriage)
-        - [Domestic Violence](https://ag.org/Beliefs/Position-Papers/Domestic-Violence)
-        - [Eternal Punishment](https://ag.org/Beliefs/Position-Papers/Final-Judgment)
-        - [Homosexuality, Marriage, and Sexual Identity](https://ag.org/Beliefs/Position-Papers/Homosexuality-Marriage-and-Sexual-Identity)
-        - [Inspiration, Inerrancy, and Authority of Scripture](https://ag.org/Beliefs/Position-Papers/Inspiration-Inerrancy-Authority-of-Scripture)
-        - [Kingdom of God](https://ag.org/Beliefs/Position-Papers/Kingdom-of-God)
-        - [Leadership and Governance in the Local Church](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
-        - [Ordination: The Recognition of a Call to Ministry](https://ag.org/Beliefs/Position-Papers/Ordination---The-Recognition-of-a-Call-to-Ministry)
-        - [Ministry to People With Disabilities - A Biblical Perspective](https://ag.org/Beliefs/Position-Papers/Persons-with-Disabilities-in-the-Ministry-of-the-Church)
-        - [Positive Confession, The Believer And…](https://ag.org/Beliefs/Position-Papers/The-Believer-and-Positive-Confession)
-        - [Premillennial-Eschatology (new August 2024)](https://ag.org/Beliefs/Position-Papers/Premillennial-Eschatology)
-        - [Racism, a Biblical Response](https://ag.org/Beliefs/Position-Papers/Racism-a-Biblical-Response)
-        - [Rapture of the Church](https://ag.org/Beliefs/Position-Papers/The-Rapture-of-the-Church)
-        - [Reformed Theology, A Response to…](https://ag.org/Beliefs/Position-Papers/Reformed-Theology-Response-of-the-AG-Position-Paper)
-        - [Revival and Spiritual Renewal (new August 2024](https://ag.org/Beliefs/Position-Papers/Revival-and-Spiritual-Renewal)
-        - [Sanctity of Human Life - Abortion and Reproductive Issues](https://ag.org/Beliefs/Position-Papers/Abortion-Sanctity-of-Human-Life)
-        - [Sanctity of Human Life - Suicide and Euthanasia](https://ag.org/Beliefs/Position-Papers/Suicide-Assisted-Suicide-Official-AG-Position-Paper)
-        - [Spiritual Warfare and the Believer](https://ag.org/Beliefs/Position-Papers/Spiritual-Warfare-and-the-Believer)
-        - [The Role of Women in Ministry](https://ag.org/Beliefs/Position-Papers/The-Role-of-Women-in-Ministry)
-        - [Transgenderism, Transsexuality, And Gender Identity](https://ag.org/Beliefs/Position-Papers/Transgenderism-Transsexuality-and-Gender-Identity)
-        - [Worship in the Bible](https://ag.org/Beliefs/Position-Papers/Worship-in-the-Bible)
-     - Royal Rangers
-        - [Position on Sexual Morality](https://royalrangers.com/policies/standards)
-   - Official Statements
-     - Assemblies of God Official Statements
-        - [Statement Regarding Chi Alpha](https://ag.org/xastatement)
-        - [Statement Against Antisemitism](https://news.ag.org/en/articles/news/2022/11/statement-against-antisemitism)
-        - [Resolution on Racism](https://news.ag.org/en/articles/news/2010/02/resolution-on-racism)
-        - [Response Regarding NAE Immigration Resolution](https://news.ag.org/en/articles/news/2009/10/response%20regarding%20nae%20immigration%20resolution)
-        - [Statement on George Floyd, Racism, and Racial Reconciliation](
-        - [Statement on Revival](https://news.ag.org/en/articles/news/2008/08/statement%20on%20revival)
-   - Structure, Constitution, and Bylaws
-     - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
-     - [Structure](https://ag.org/About/About-the-AG/Structure)
-   - Recommendations
-     - National Level
-       - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
-       - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
-     - District Level
-       - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/sabbath---sabbatical)
-          - Study Leave
-          - Rest and Spiritual Renewal Leave
-          - Special Project Leave
-   - [Affiliations](https://ag.org/About/About-the-AG/Affiliations)
-      - National Association of Evangelicals (NAE)
-      - Pentecostal and Charismatic Churches of North America (PCCNA)
-      - Pentecostal World Fellowship (PWF)
-      - World Assemblies of God Fellowship (WAGF)
+## Blogs
+1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
 
-## Ministries
-1. Assemblies of God USA Ministries
-   - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
-     - Men's Ministries
-     - Women's Ministries
-     - Senior Adults
-     - Light For the Lost
-     - Light The Way
-     - Adult and Teen Challenge
-   - [Youth](https://ag.org/Ministries/Youth)
-     - National Youth Ministries
-     - Fine Arts
-     - Speed the Light
-     - Teen Bible Quiz
-     - AIM
-     - Youth Alive
-   - [Children](https://ag.org/Ministries/Children)
-     - Children's Ministry
-     - BGMC
-     - Compact Family Services Agency
-     - Faith Case
-     - Fire Bible Kids
-     - Girls Ministries
-     - Junior Bible Quiz
-     - Mega Sports Camp
-     - Radiant Life
-     - Royal Rangers
-     - Tru Fire
-     - Vida Nueva
-   - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
-     - Church Multiplication Network
-     - Influence Magazine
-     - Center for Holy Lands Studies
-     - Acts 2 Journey
-     - Network of Women Ministers
-     - Office of Hispanic Relations
-     - Office of Ethnic Relations
-     - AG Higher Education
-     - AG Coaching
-     - Influence Music
-     - AG National Evangelists
-     - Legacy Transition Group
-   - [Education](https://ag.org/Ministries/Education)
-     - [AG Alliance for Higher Education](http://colleges.ag.org/)
-       - [Ascent College](ascent.edu)
-       - [Assemblies of God Theological Seminary](agts.edu)
-       - [Bridges Christian College](bcc.edu)
-       - [California Theological Seminary](http://www.agcts.com)
-       - [Caribbean Theological College](http://www.ctcad.org)
-       - [Christ Mission College](http://www.cmctx.edu/)
-       - [Evangel University](http://www.evangel.edu/)
-       - [Global University](http://www.globaluniversity.edu/)
-       - Korean Assemblies of God Theological School of New York
-       - [LABI College](http://www.labi.edu/)
-       - [Lumbee River Christian College](https://www.lumbeeriver.edu/)
-       - [North Central University](https://www.northcentral.edu/)
-       - [Northpoint Bible College and Seminary](http://northpoint.edu/)
-       - [Northpoint Bible College](http://www.northpointcollege.edu/)
-       - [Northwest University](https://www.northwestu.edu/)
-       - [Southeastern University](seu.edu)
-       - [Spanish Eastern Bible College](https://www.sededucation.org/)
-       - [Nelson American Indian College](https://www.aicag.edu/)
-       - [Nelson University (formaly Southwestern Assemblies of God University)](sagu.edu)
-       - [Trinity Bible College](https://trinitybiblecollege.edu/)
-       - [University of Valley Forge](https://www.valleyforge.edu/)
-       - [Vanguard University](http://www.vanguard.edu/)
-     - [Center for Holy Lands Studies](https://thechls.org/)
-     - [Christian Schools](https://www.actsschools.org/)
-     - [Curriculum]
-     - [Sunday School](https://myhealthychurch.com/store/startcat.cfm?cat=mSUNSMALL)
-   - [Other Ministries](https://ag.org/Ministries/Other-Ministries)
-     - Evangelism
-     - Worship
-     - Discipleship
-       - [Bible Engagement Project](https://bibleengagementproject.com/)
-     - Compassion
-2. US Missions
-   - [Adult & Teen Challenge](https://teenchallengeusa.org/)
-   - [Chaplaincy Ministries](https://chaplaincy.ag.org/)
-   - [Chi Alpha College Ministry](https://chialpha.com/)
-   - [Church Mobilization](https://churchmobilization.ag.org/)
-   - [Intercultural Ministries](https://intercultural.ag.org/)
-   - Specialized
-   - [Youth Alive](https://youth.ag.org/YouthAlive)
-3. Recommended Ministries
-   - Ministries for Ministers
-     - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
-     - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/)
-   - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
-     - Abortion Recovery
-       - [SAVEONE](https://www.saveone.org/)
-     - Abuse and/or Addiction Recovery
-       - [Adult & Teen Challenge](https://teenchallengeusa.org/)
-       - [Beyond Survival Ministries, Inc.](https://www.beyondsurvivalministries.org/)
-       - [Project Ignite Light](https://ignitelight.org/)
-       - [Pure Life Ministries](https://www.purelifeministries.org/)
-     - Adoption/Foster Care
-       - [Compact Family Services](https://compact.family/)
-     - Compassion
-       - [Convoy of Hope: Convoy Women](https://convoyofhope.org/convoy-women/)
-     - Counseling
-       - [Emerge Ministries](https://www.emerge.org/)
-     - Domestic Violence Awareness
-       - [God's Transforming Grace](https://godstransforminggrace.com/)
-     - Human Trafficking Rescue
-       - [Global Center for Women and Justice](https://www.gcwj.org/)
-       - [Free International](https://www.freeinternational.org/)
-       - [Project Rescue](https://www.projectrescue.com/)
-       - [Protect Me Project](https://www.protectmeproject.org/)
-     - Marriage
-       - [Marriage Encounter](https://agme.org/)
-       - [Teaming Life](http://teaminglife.com/)
-     - Women Ministers
-       - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
-     - Rural Church Ministry
-       - [Rural Compassion](https://www.ruralcompassion.org/)
-     - Sexual Identity
-       - [Linda Seiler](https://LindaSeiler.com)
-       - [Restory Ministries](https://restoryministries.org/)
-       - [Joe Dallas](JoeDallas.com)
-     - Special Needs
-       - [CompassionLink Disability Ministry](https://www.compassionlink.org/)
-     - Women
-       - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
-       - [Ministry to Single Moms](http://www.loisbreit.com/)
-       - [Widows Link](https://widowslink.org/)
-
-## Podcasts
-1. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
-2. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
-3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
-4. [Ranger Podcast](https://royalrangers.com/podcast)
-5. [Shades of Understanding by Chi Alpha Podcast Network](https://pod.co/shades-of-understanding)
-6. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
-7. Individual Churches
-   - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
-
-## YouTube Channels
-1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
-2. [AG Kidmin](https://www.youtube.com/@AGKidmin)
-3. [AG Youth](https://www.youtube.com/@AGYouth)
-4. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
-5. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
-6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
-7. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
-8. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
-9. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
-10. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
-9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
-10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
- 
 ## Instagram
 1. [Assemblies of God USA](https://www.instagram.com/ag_usa/)
 2. [AG BGMC](https://www.instagram.com/agbgmc/)
@@ -277,13 +45,12 @@
     - [North Texas Kids Ministry](https://www.instagram.com/ntxkids/)
 12. Churches
 
-## Blogs
-1. [The Instititue of Ministerial Wholeness](https://www.imwholeness.org/blog)
-
-## Scholarly Research Journals
-1. [Journal of Sustainable Ministry submission form](https://seu.edu/academics/bcmt/journal-of-sustainable-ministry-article-submission/)
-2. [International Journal of Pentecostal Missiology](https://www.evangel.edu/seminary/student-resources/ijpm/)
-3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
+## Newsletters
+1. [Primeline](https://sam.ag.org/)
+2. [Rangers NOW](https://royalrangers.com/rangersnow)
+3. Assemblies of God Professors
+   -LinkedIn Newsletters
+      - [Harris Speaks: Unmasking Bias](https://www.linkedin.com/newsletters/7248816858575826945)
 
 ## Magazines
 1. [360 Spotlight- Light for the Lost](https://lftl.ag.org/360-Spotlight)
@@ -295,12 +62,20 @@
 4. [Primeline](https://sam.ag.org/)
 5. [Worldview](https://agwm.org/en/worldview/) 
 
-## Newsletters
-1. [Primeline](https://sam.ag.org/)
-2. [Rangers NOW](https://royalrangers.com/rangersnow)
-3. Assemblies of God Professors
-   -LinkedIn Newsletters
-      - [Harris Speaks: Unmasking Bias](https://www.linkedin.com/newsletters/7248816858575826945)
+## Podcasts
+1. [AG News Podcast](https://ag.org/Podcast/AG-News-Podcast)
+2. [Church Multiplication Network](https://muckrack.com/podcast/cmn-leadership-podcast/)
+3. [Influence Magazine Podcast](https://influencemagazine.com/en/podcast)
+4. [Ranger Podcast](https://royalrangers.com/podcast)
+5. [Shades of Understanding by Chi Alpha Podcast Network](https://pod.co/shades-of-understanding)
+6. [Your Day Podcast](https://ag.org/Podcast/Your-Day-Podcast)
+7. Individual Churches
+   - [An Aggregation of Assembly of God Local Churches' podcasts](https://player.fm/podcasts/Assembly-Of-God)
+
+## Scholarly Research Journals
+1. [Journal of Sustainable Ministry submission form](https://seu.edu/academics/bcmt/journal-of-sustainable-ministry-article-submission/)
+2. [International Journal of Pentecostal Missiology](https://www.evangel.edu/seminary/student-resources/ijpm/)
+3. [Encounter: Journal for Pentecostal Ministry](https://www.evangel.edu/seminary/student-resources/encounter-journal-for-pentecostal-ministry/)
 
 ## Videos
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
@@ -408,6 +183,20 @@
             - Round Table Session (Embed Code)
             - Testimony Perspective (Embed Code) 
 
+## YouTube Channels
+1. [360 Man Podcast](https://www.youtube.com/@360manpodcast9)
+2. [AG Kidmin](https://www.youtube.com/@AGKidmin)
+3. [AG Youth](https://www.youtube.com/@AGYouth)
+4. [AGWM](https://www.youtube.com/@AssembliesofGodWorldMissions)
+5. [Assemblies of God USA](https://www.youtube.com/@AG_USA)
+6. [Bible Engagement Project](https://www.youtube.com/@BibleEngagementProject)
+7. [Center for Holy Lands Studies (CHLS)](https://www.youtube.com/@HolyLandsStudies)
+8. [Church Law & Tax](https://www.youtube.com/@ChurchLawAndTax)
+9. [Church Multiplication Network](https://www.youtube.com/@ChurchMultiplicationNetwork)
+10. [My Healthy Church](https://www.youtube.com/@MyHealthyChurch)
+9. [Network of Women Ministers](https://www.youtube.com/c/networkofwomenministers)
+10. [Proyecto Compromiso Bíblico](https://www.youtube.com/c/ProyectoCompromisoB%C3%ADblico)
+ 
 ## Reading Lists
 1. [Assemblies of God Core Doctrines](https://ag.org/Beliefs/Our-Core-Doctrines/Resources)
    - Salvation
@@ -666,6 +455,217 @@
           -  Courageous Leadership by Bill Hybels
           -  Traveling Light by Max Lucado
           -  Choosing to Cheat by Andy Stanley
+
+## Doctrines
+1. Assemblies of God
+   - Doctrines
+     - [Assemblies of God 16 Fundamental Truths](https://ag.org/Beliefs/Statement-of-Fundamental-Truths)
+        - The Scriptures Inspired
+        - The One True God
+        - The Deity of the Lord Jesus Christ
+        - The Fall of Man
+        - The Salvation of Man
+        - The Ordinances of the Church
+        - The Baptism in the Holy Spirit
+        - The Initial Physical Evidence of the Baptism in the Holy Spirit
+        - Sanctification
+        - The Church and Its Mission
+        - The Ministry
+        - Divine Healing
+        - The Blessed Hope
+        - The Millennial Reign of Christ
+        - The Final Judgment
+        - The New Heavens and the New Earth
+   - Official Positions
+     - World Assemblies of God Fellowship Theological Commission Position Papers
+        - [Revised Pentecostal Theology of Compassion](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/PentecostalTheologyofCompassionWAGFPositionPaperFinalRevisedVersionfrom1May2012withnewcover.pdf)
+        - [Essential Nature of the Church as the Missional People of God as Reflected in Pentecostal Self-Understanding](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/4eFinalVersionEssentialNatureofChurchRevCdnTheoComm1.pdf)
+        - [Redefinition of Marriage and Human Sexuality](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Redefinition-of-Marriage-and-Human-Sexuality-WAGF-Website-Version.pdf)
+        - [Hyper-Grace Issue Position Paper](https://worldagfellowship.org/-/media/World-AG-Fellowship/Bylaws-Membership-Papers/Hyper-Grace-Issue-Position-Paper-Draft-US-Letter-Format.pdf)
+     - Assemblies of God USA Position Papers
+        - [Abstinence from Alcohol](https://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcoholhttps://ag.org/Beliefs/Position-Papers/Abstinence-from-Alcohol)
+        - [Apostles and Prophets](https://ag.org/Beliefs/Position-Papers/Apostles-and-Prophets)
+        - [Assurance of Salvation](https://ag.org/Beliefs/Position-Papers/Assurance-Of-Salvation)
+        - [Baptism in the Holy Spirit](https://ag.org/Beliefs/Position-Papers/Baptism-in-the-Holy-Spirit)
+        - [A Biblical Perspective on Gambling](https://ag.org/Beliefs/Position-Papers/A-Biblical-Perspective-on-Gambling)
+        - [Doctrine of Creation](https://ag.org/Beliefs/Position-Papers/The-Doctrine-of-Creation)
+        - [Church Mission and Peacemaking](https://ag.org/Beliefs/Position-Papers/Church-Mission-and-Peacemaking)
+        - [Divine Healing](https://ag.org/Beliefs/Position-Papers/Divine-Healing)
+        - [Divorce and Remarriage](https://ag.org/Beliefs/Position-Papers/Divorce-and-Remarriage)
+        - [Domestic Violence](https://ag.org/Beliefs/Position-Papers/Domestic-Violence)
+        - [Eternal Punishment](https://ag.org/Beliefs/Position-Papers/Final-Judgment)
+        - [Homosexuality, Marriage, and Sexual Identity](https://ag.org/Beliefs/Position-Papers/Homosexuality-Marriage-and-Sexual-Identity)
+        - [Inspiration, Inerrancy, and Authority of Scripture](https://ag.org/Beliefs/Position-Papers/Inspiration-Inerrancy-Authority-of-Scripture)
+        - [Kingdom of God](https://ag.org/Beliefs/Position-Papers/Kingdom-of-God)
+        - [Leadership and Governance in the Local Church](https://ag.org/Beliefs/Position-Papers/Leadership-and-Governance-in-the-Local-Church)
+        - [Ordination: The Recognition of a Call to Ministry](https://ag.org/Beliefs/Position-Papers/Ordination---The-Recognition-of-a-Call-to-Ministry)
+        - [Ministry to People With Disabilities - A Biblical Perspective](https://ag.org/Beliefs/Position-Papers/Persons-with-Disabilities-in-the-Ministry-of-the-Church)
+        - [Positive Confession, The Believer And…](https://ag.org/Beliefs/Position-Papers/The-Believer-and-Positive-Confession)
+        - [Premillennial-Eschatology (new August 2024)](https://ag.org/Beliefs/Position-Papers/Premillennial-Eschatology)
+        - [Racism, a Biblical Response](https://ag.org/Beliefs/Position-Papers/Racism-a-Biblical-Response)
+        - [Rapture of the Church](https://ag.org/Beliefs/Position-Papers/The-Rapture-of-the-Church)
+        - [Reformed Theology, A Response to…](https://ag.org/Beliefs/Position-Papers/Reformed-Theology-Response-of-the-AG-Position-Paper)
+        - [Revival and Spiritual Renewal (new August 2024](https://ag.org/Beliefs/Position-Papers/Revival-and-Spiritual-Renewal)
+        - [Sanctity of Human Life - Abortion and Reproductive Issues](https://ag.org/Beliefs/Position-Papers/Abortion-Sanctity-of-Human-Life)
+        - [Sanctity of Human Life - Suicide and Euthanasia](https://ag.org/Beliefs/Position-Papers/Suicide-Assisted-Suicide-Official-AG-Position-Paper)
+        - [Spiritual Warfare and the Believer](https://ag.org/Beliefs/Position-Papers/Spiritual-Warfare-and-the-Believer)
+        - [The Role of Women in Ministry](https://ag.org/Beliefs/Position-Papers/The-Role-of-Women-in-Ministry)
+        - [Transgenderism, Transsexuality, And Gender Identity](https://ag.org/Beliefs/Position-Papers/Transgenderism-Transsexuality-and-Gender-Identity)
+        - [Worship in the Bible](https://ag.org/Beliefs/Position-Papers/Worship-in-the-Bible)
+     - Royal Rangers
+        - [Position on Sexual Morality](https://royalrangers.com/policies/standards)
+   - Official Statements
+     - Assemblies of God Official Statements
+        - [Statement Regarding Chi Alpha](https://ag.org/xastatement)
+        - [Statement Against Antisemitism](https://news.ag.org/en/articles/news/2022/11/statement-against-antisemitism)
+        - [Resolution on Racism](https://news.ag.org/en/articles/news/2010/02/resolution-on-racism)
+        - [Response Regarding NAE Immigration Resolution](https://news.ag.org/en/articles/news/2009/10/response%20regarding%20nae%20immigration%20resolution)
+        - [Statement on George Floyd, Racism, and Racial Reconciliation](
+        - [Statement on Revival](https://news.ag.org/en/articles/news/2008/08/statement%20on%20revival)
+   - Structure, Constitution, and Bylaws
+     - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)
+     - [Structure](https://ag.org/About/About-the-AG/Structure)
+   - Recommendations
+     - National Level
+       - [Church Bylaws](https://ag.org/About/Leadership%20Team/General%20Secretary#ByLaws)
+       - [Church, Law, and Tax](https://store.churchlawandtax.com/authors/richard-r-hammar/)
+     - District Level
+       - [Sabbatical Policy (North Texas District)](https://www.northtexas.ag/sabbath---sabbatical)
+          - Study Leave
+          - Rest and Spiritual Renewal Leave
+          - Special Project Leave
+   - [Affiliations](https://ag.org/About/About-the-AG/Affiliations)
+      - National Association of Evangelicals (NAE)
+      - Pentecostal and Charismatic Churches of North America (PCCNA)
+      - Pentecostal World Fellowship (PWF)
+      - World Assemblies of God Fellowship (WAGF)
+
+## Ministries
+1. Assemblies of God USA Ministries
+   - [Adult and Family](https://ag.org/Ministries/Adult-and-Family)
+     - Men's Ministries
+     - Women's Ministries
+     - Senior Adults
+     - Light For the Lost
+     - Light The Way
+     - Adult and Teen Challenge
+   - [Youth](https://ag.org/Ministries/Youth)
+     - National Youth Ministries
+     - Fine Arts
+     - Speed the Light
+     - Teen Bible Quiz
+     - AIM
+     - Youth Alive
+   - [Children](https://ag.org/Ministries/Children)
+     - Children's Ministry
+     - BGMC
+     - Compact Family Services Agency
+     - Faith Case
+     - Fire Bible Kids
+     - Girls Ministries
+     - Junior Bible Quiz
+     - Mega Sports Camp
+     - Radiant Life
+     - Royal Rangers
+     - Tru Fire
+     - Vida Nueva
+   - [Leaders and Ministers](https://ag.org/Ministries/Leaders-and-Ministers)
+     - Church Multiplication Network
+     - Influence Magazine
+     - Center for Holy Lands Studies
+     - Acts 2 Journey
+     - Network of Women Ministers
+     - Office of Hispanic Relations
+     - Office of Ethnic Relations
+     - AG Higher Education
+     - AG Coaching
+     - Influence Music
+     - AG National Evangelists
+     - Legacy Transition Group
+   - [Education](https://ag.org/Ministries/Education)
+     - [AG Alliance for Higher Education](http://colleges.ag.org/)
+       - [Ascent College](ascent.edu)
+       - [Assemblies of God Theological Seminary](agts.edu)
+       - [Bridges Christian College](bcc.edu)
+       - [California Theological Seminary](http://www.agcts.com)
+       - [Caribbean Theological College](http://www.ctcad.org)
+       - [Christ Mission College](http://www.cmctx.edu/)
+       - [Evangel University](http://www.evangel.edu/)
+       - [Global University](http://www.globaluniversity.edu/)
+       - Korean Assemblies of God Theological School of New York
+       - [LABI College](http://www.labi.edu/)
+       - [Lumbee River Christian College](https://www.lumbeeriver.edu/)
+       - [North Central University](https://www.northcentral.edu/)
+       - [Northpoint Bible College and Seminary](http://northpoint.edu/)
+       - [Northpoint Bible College](http://www.northpointcollege.edu/)
+       - [Northwest University](https://www.northwestu.edu/)
+       - [Southeastern University](seu.edu)
+       - [Spanish Eastern Bible College](https://www.sededucation.org/)
+       - [Nelson American Indian College](https://www.aicag.edu/)
+       - [Nelson University (formaly Southwestern Assemblies of God University)](sagu.edu)
+       - [Trinity Bible College](https://trinitybiblecollege.edu/)
+       - [University of Valley Forge](https://www.valleyforge.edu/)
+       - [Vanguard University](http://www.vanguard.edu/)
+     - [Center for Holy Lands Studies](https://thechls.org/)
+     - [Christian Schools](https://www.actsschools.org/)
+     - [Curriculum]
+     - [Sunday School](https://myhealthychurch.com/store/startcat.cfm?cat=mSUNSMALL)
+   - [Other Ministries](https://ag.org/Ministries/Other-Ministries)
+     - Evangelism
+     - Worship
+     - Discipleship
+       - [Bible Engagement Project](https://bibleengagementproject.com/)
+     - Compassion
+2. US Missions
+   - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+   - [Chaplaincy Ministries](https://chaplaincy.ag.org/)
+   - [Chi Alpha College Ministry](https://chialpha.com/)
+   - [Church Mobilization](https://churchmobilization.ag.org/)
+   - [Intercultural Ministries](https://intercultural.ag.org/)
+   - Specialized
+   - [Youth Alive](https://youth.ag.org/YouthAlive)
+3. Recommended Ministries
+   - Ministries for Ministers
+     - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
+     - [The Institute for Ministerial Wholeness](https://www.imwholeness.org/)
+   - [AG USA Women's Recommended Ministries](https://women.ag.org/Resources)
+     - Abortion Recovery
+       - [SAVEONE](https://www.saveone.org/)
+     - Abuse and/or Addiction Recovery
+       - [Adult & Teen Challenge](https://teenchallengeusa.org/)
+       - [Beyond Survival Ministries, Inc.](https://www.beyondsurvivalministries.org/)
+       - [Project Ignite Light](https://ignitelight.org/)
+       - [Pure Life Ministries](https://www.purelifeministries.org/)
+     - Adoption/Foster Care
+       - [Compact Family Services](https://compact.family/)
+     - Compassion
+       - [Convoy of Hope: Convoy Women](https://convoyofhope.org/convoy-women/)
+     - Counseling
+       - [Emerge Ministries](https://www.emerge.org/)
+     - Domestic Violence Awareness
+       - [God's Transforming Grace](https://godstransforminggrace.com/)
+     - Human Trafficking Rescue
+       - [Global Center for Women and Justice](https://www.gcwj.org/)
+       - [Free International](https://www.freeinternational.org/)
+       - [Project Rescue](https://www.projectrescue.com/)
+       - [Protect Me Project](https://www.protectmeproject.org/)
+     - Marriage
+       - [Marriage Encounter](https://agme.org/)
+       - [Teaming Life](http://teaminglife.com/)
+     - Women Ministers
+       - [Network of Women Ministers NWM](https://www.womenministers.ag.org/)
+     - Rural Church Ministry
+       - [Rural Compassion](https://www.ruralcompassion.org/)
+     - Sexual Identity
+       - [Linda Seiler](https://LindaSeiler.com)
+       - [Restory Ministries](https://restoryministries.org/)
+       - [Joe Dallas](JoeDallas.com)
+     - Special Needs
+       - [CompassionLink Disability Ministry](https://www.compassionlink.org/)
+     - Women
+       - [Say Hello: Ministry to Muslim Women](https://sayhelloinfo.com/)
+       - [Ministry to Single Moms](http://www.loisbreit.com/)
+       - [Widows Link](https://widowslink.org/)
 
 ## Frameworks
 1. [AG Mission](https://ag.org/About/About-the-AG/Mission)

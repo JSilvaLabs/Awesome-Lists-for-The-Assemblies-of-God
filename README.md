@@ -20,6 +20,8 @@
 
 [YouTube Channels](#youtube-channels)
 
+
+Other important information:
 [Doctrines](#doctrines)
 
 [Ministries](#ministries)

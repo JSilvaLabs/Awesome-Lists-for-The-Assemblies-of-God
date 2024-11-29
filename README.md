@@ -21,7 +21,7 @@
 [YouTube Channels](#youtube-channels)
 
 
-Other important information:
+## Other important information:
 [Doctrines](#doctrines)
 
 [Ministries](#ministries)

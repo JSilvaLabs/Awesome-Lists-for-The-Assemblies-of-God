@@ -526,7 +526,6 @@
         - [Statement Against Antisemitism](https://news.ag.org/en/articles/news/2022/11/statement-against-antisemitism)
         - [Resolution on Racism](https://news.ag.org/en/articles/news/2010/02/resolution-on-racism)
         - [Response Regarding NAE Immigration Resolution](https://news.ag.org/en/articles/news/2009/10/response%20regarding%20nae%20immigration%20resolution)
-        - [Statement on George Floyd, Racism, and Racial Reconciliation](
         - [Statement on Revival](https://news.ag.org/en/articles/news/2008/08/statement%20on%20revival)
    - Structure, Constitution, and Bylaws
      - [Assemblies of God Constitution and Bylaws](https://ag.org/About/About-the-AG/Constitution-and-Bylaws)

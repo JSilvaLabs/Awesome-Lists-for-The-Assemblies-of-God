@@ -1,8 +1,8 @@
 # The Assemblies of God [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Assemblies of God, AG, Ministry, Church, Christianity, Christian
 
-
-
+This Awesome List is a collaborative effort to highlight exceptional Assemblies of God churches and resources across the United States. We believe in the power of community and encourage you to contribute to this growing list.  We aim to showcase churches and resources that are making a difference and inspiring others within the Assemblies of God and beyond.
+**Disclaimer:** This Awesome List is a community-driven project and is **not an official publication or endorsement of the Assemblies of God**. The inclusion of any church or resource on this list does not constitute an official endorsement by the Assemblies of God or the maintainers of this list. The "awesome" designation is based on subjective criteria and community input. While we strive for accuracy and fairness, the content of this list should not be considered authoritative or exhaustive. Please see the [contribution guidelines](contributing.md) for more information.
 
 
 ## Content
